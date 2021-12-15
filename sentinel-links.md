@@ -26,7 +26,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)   
+[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)
 
@@ -37,8 +37,8 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="arch_general"></a>
 
 ### General
-[Azure Sentinel Technical Playbook for MSSPs [pdf]](https://aka.ms/azsentinelmssp)   
-[Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)   
+[Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]  
+[Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)  
 [Microsoft Sentinel workspace architecture best practices](https://docs.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)  
 [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)  
 [Azure Sentinel Deployment Guide (with Microsoft partner BlueVoyant)](https://azure.microsoft.com/en-us/resources/azure-sentinel-deployment-guide/)
