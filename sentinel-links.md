@@ -111,6 +111,14 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 modules 7 (KQL) & 8 (Analytics)  
 [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [Sample queries](https://github.com/rod-trent/SentinelKQL) | [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent) | [KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
 
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| Dec 7, 2021 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) |  |
+| Sep 9, 2020 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) |  |
+| Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) |  |
+| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) |  |
+
+
 <a name="asim"></a>
 
 ## Advanced SIEM Information Model (ASIM)
@@ -138,12 +146,14 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 ### Jupyter Notebooks
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/notebooks) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 module Y  
-[Microsoft Sentinel Notebooks Ninja - The Series!](https://cda.ms/2wn)
+[Microsoft Sentinel Notebooks Ninja - The Series!](https://cda.ms/2wn)  
+[Microsoft Sentinel Jupyter Notebooks knowledge check test](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784)
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| Dec 16, 2021 | Become a Jupyter Notebooks Ninja – MSTICPy Fundamentals to Build Your Own Notebooks | [YouTube](https://youtu.be/S0knTOnA2Rk) |  |  |
 | Oct 11, 2021 | Become a Notebooks Ninja – Getting Started with Jupyter Notebooks in Azure Sentinel | [YouTube](https://youtu.be/JLOhfoovASE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjmnUOdOAguEDWvz5?e=gYHOkU) |  |
 | Jul 20, 2021 | Streamlining your SOC Workflow with Automated Notebooks | [YouTube](https://youtu.be/DinI1I1pbz4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi2wGTRPLKwedfnTg?e=Sei3an) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775) |
 | Jul 13, 2021  | Customizing Azure Sentinel with Python - MSTICPy and Jupyter Notebooks | [YouTube](https://youtu.be/OC4TeNUxSR0) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi1M7k3EWkflm-JYf?e=6ggEbr) |  |

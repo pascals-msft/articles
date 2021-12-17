@@ -25,19 +25,14 @@ Free training:
 * [Use Azure Lighthouse with your managed service business](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/) (with online lab)
 * [Use Azure Lighthouse to govern, monitor, and secure customer resources](https://docs.microsoft.com/en-us/learn/modules/govern-monitor-secure-resources-azure-lighthouse/)
 
-<!--
-<a name="architecture"></a>
-
-## Architecture
--->
-
 <a name="howto"></a>
 
 ## How-to
 
 [Customer onboarding reference documentation](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer)
 
-[GitHub: _Deploy to Azure_ buttons](https://github.com/Azure/Azure-Lighthouse-samples)
+[GitHub: _Deploy to Azure_ buttons](https://github.com/Azure/Azure-Lighthouse-samples) |
+[Index of the samples](https://docs.microsoft.com/en-us/azure/lighthouse/samples/)
 
 Reference docs:
 [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) |
@@ -52,8 +47,9 @@ Reference docs:
 
 ## For partners
 
+[Partner community](https://aka.ms/azurelighthouse) | [Resources](https://www.microsoft.com/azure/partners/azure-lighthouse#lighthouse-resources)  
 [Azure Lighthouse and the Cloud Solution Provider program (CSP)](https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider)  
-[Link your partner ID to track your impact on delegated resources](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/partner-earned-credit)  
-[Partner community](https://aka.ms/azurelighthouse) | [Resources](https://www.microsoft.com/azure/partners/azure-lighthouse#lighthouse-resources)
+[Link your partner ID to track your impact on delegated resources](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/partner-earned-credit)
 
+[Coming in January 2022: Technical release of granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/announcements/2021-december#9)
 ___
