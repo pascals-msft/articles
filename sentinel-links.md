@@ -7,6 +7,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 * [General](#general)
 * [Architecture](#architecture)
   * [General](#arch_general)
+  * [Microsoft Sentinel for MSSPs](#mssp)
   * [Long term retention on Azure Data Explorer (ADX)](#adx)
 * [Lab environments](#lab)
 * [Data collection](#collection)
@@ -37,11 +38,17 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="arch_general"></a>
 
 ### General
-[Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]  
-[Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)  
 [Microsoft Sentinel workspace architecture best practices](https://docs.microsoft.com/en-us/azure/sentinel/best-practices-workspace-architecture)  
 [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)  
-[Azure Sentinel Deployment Guide (with Microsoft partner BlueVoyant)](https://azure.microsoft.com/en-us/resources/azure-sentinel-deployment-guide/)
+[Azure Sentinel Deployment Guide (with Microsoft partner BlueVoyant)](https://azure.microsoft.com/en-us/resources/azure-sentinel-deployment-guide/)  
+[Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)
+
+<a name="mssp"></a>
+
+### Microsoft Sentinel for MSSPs
+
+[Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]  
+[Azure Lighthouse: Manage Microsoft Sentinel workspaces at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces)
 
 <a name="adx"></a>
 
