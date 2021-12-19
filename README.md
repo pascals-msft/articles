@@ -1,6 +1,6 @@
 # articles
 
-Article and reference links
+Articles and reference links
 
 * [Azure Lighthouse useful links](lighthouse-links.md)
 * [Microsoft Defender for Cloud useful links](mdc-links.md)
