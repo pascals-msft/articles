@@ -39,9 +39,9 @@ Reference docs:
 [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/) |
 [Azure built-in roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 
-[Manage migration projects at scale with Azure Lighthouse and Azure Migrate](https://techcommunity.microsoft.com/t5/azure-migration-and/manage-migration-projects-at-scale-with-azure-lighthouse-and/ba-p/1999161)  
-[Azure Lighthouse - Step by step guidance - Onboard customer to Lighthouse using sample template](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-lighthouse-step-by-step-guidance-onboard-customer-to/ba-p/1793055)  
-[Azure Arc & Lighthouse: Managing IT Infrastructure Anywhere at-scale](https://techcommunity.microsoft.com/t5/azure-arc-blog/azure-arc-amp-lighthouse-managing-it-infrastructure-anywhere-at/ba-p/1638980)
+2020-12-17 [Manage migration projects at scale with Azure Lighthouse and Azure Migrate](https://techcommunity.microsoft.com/t5/azure-migration-and/manage-migration-projects-at-scale-with-azure-lighthouse-and/ba-p/1999161)  
+2020-10-18 [Azure Lighthouse - Step by step guidance - Onboard customer to Lighthouse using sample template](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-lighthouse-step-by-step-guidance-onboard-customer-to/ba-p/1793055)  
+2020-09-22 [Azure Arc & Lighthouse: Managing IT Infrastructure Anywhere at-scale](https://techcommunity.microsoft.com/t5/azure-arc-blog/azure-arc-amp-lighthouse-managing-it-infrastructure-anywhere-at/ba-p/1638980)
 
 <a name="partners"></a>
 
@@ -50,6 +50,11 @@ Reference docs:
 [Partner community](https://aka.ms/azurelighthouse) | [Resources](https://www.microsoft.com/azure/partners/azure-lighthouse#lighthouse-resources)  
 [Azure Lighthouse and the Cloud Solution Provider program (CSP)](https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider)  
 [Link your partner ID to track your impact on delegated resources](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/partner-earned-credit)
+
+About Nobelium attacks:  
+2021-10-24 [New activity from Russian actor Nobelium](https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/)  
+2021-10-25 [NOBELIUM targeting delegated administrative privileges to facilitate broader attacks](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/)  
+2021-10-25 [Guidance for partners on Nobelium targeted attacks](https://blogs.partner.microsoft.com/mpn/guidance-for-partners-on-nobelium-targeted-attacks/)
 
 [Coming in January 2022: Technical release of granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/announcements/2021-december#9)
 ___
