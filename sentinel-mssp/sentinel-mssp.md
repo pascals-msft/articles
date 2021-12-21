@@ -1,5 +1,7 @@
 # Microsoft Sentinel dans un contexte MSSP
 
+*** DRAFT ***
+
 <details><summary>Sommaire</summary>
 
 * [Introduction](#intro)
@@ -27,22 +29,30 @@ Pour utiliser Microsoft Sentinel dans un contexte où un MSSP fournit le service
  - le déploiement automatisé de Microsoft Sentinel,
  - le fonctionnement de Microsoft Sentinel sur plusieurs tenants et plusieurs workspaces.
 
+*** DRAFT ***
+
 <a name="lighthouse"></a>
 
 ## Azure Lighthouse
-Mise en place de Lighthouse et des délégations
-Permissions nécessaires sur l'abonnement / le resource group, Sentinel, Log Analytics.  
-Exemple Microsoft -> Contoso :
+*** DRAFT ***
+
+<!--
+Offres et délégations
+Permissions nécessaires pour Sentinel
+Exemple :
 - Reader
 - Microsoft Sentinel Contributor
 - Log Analytics Reader
 
 Cas particulier du CSP : comment donner au client des permissions pour qu'il puisse accéder aux données de Sentinel.
-
+-->
 
 <a name="deployment"></a>
 
 ## Déploiement
+*** DRAFT ***
+
+<!--
 Automatisation du déploiement de Sentinel vers l'abonnement Azure du client
 - Onboarding
 - règles de détection
@@ -57,10 +67,14 @@ ARM / Bicep
 
 DevOps / CI/CD  
 Azure DevOps / GitHub Actions
+-->
 
 <a name="operations"></a>
 
 ## Opérations
+*** DRAFT ***
+
+<!--
 Ecrire des requêtes KQL multi-workspaces (à distance)  
 Exemples CEF  
 Utilisation de workspace()  
@@ -77,6 +91,8 @@ La règle doit être dans le même workspace que les données
 Mais on peut attacher des actions (playbooks) dans un autre workspace (celui du MSSP)
 
 => Scripting de la mise en place des règles dans le workspace du client, avec Lighthouse.
+
+-->
 
 <a name="references"></a>
 

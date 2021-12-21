@@ -61,8 +61,10 @@ How-to:
 | ---- | ------- | ----- | ---- | ---- |
 | Apr 20, 2020 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) | [blog]() |
 
+2020-09-16 [Build a scalable security practice with Azure Lighthouse and Azure Sentinel](https://azure.microsoft.com/en-us/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/)  
 2020-09-14 [What’s New: Cross-workspace Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-analytics-rules/ba-p/1664211)  
-2020-05-27 [Protecting MSSP’s Intellectual Property in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/protecting-mssp-s-intellectual-property-in-azure-sentinel/ba-p/1420941)
+2020-05-27 [Protecting MSSP’s Intellectual Property in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/protecting-mssp-s-intellectual-property-in-azure-sentinel/ba-p/1420941)  
+2020-03-05 [Combining Azure Lighthouse with Microsoft Sentinel’s DevOps capabilities](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/combining-azure-lighthouse-with-microsoft-sentinel-s-devops/ba-p/1210966)
 
 <a name="adx"></a>
 
