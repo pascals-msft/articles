@@ -48,7 +48,21 @@ Quick link to this page: https://aka.ms/sentinel-links
 ### Microsoft Sentinel for MSSPs
 
 [Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]  
+[Extend Microsoft Sentinel across workspaces and tenants](https://docs.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
+
+How-to:
+* [Manage multiple tenants in Microsoft Sentinel as an MSSP](https://docs.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)
+* [Work with incidents in many workspaces at once](https://docs.microsoft.com/en-us/azure/sentinel/multiple-workspace-view)
+* [Protecting MSSP intellectual property in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
+
 [Azure Lighthouse: Manage Microsoft Sentinel workspaces at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces)
+
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| Apr 20, 2020 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) | [blog]() |
+
+2020-09-14 [What’s New: Cross-workspace Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-analytics-rules/ba-p/1664211)  
+2020-05-27 [Protecting MSSP’s Intellectual Property in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/protecting-mssp-s-intellectual-property-in-azure-sentinel/ba-p/1420941)
 
 <a name="adx"></a>
 
