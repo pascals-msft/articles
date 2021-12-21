@@ -116,7 +116,9 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 ## Kusto query language (KQL)
 [KQL reference guide](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) | [Azure Monitor data reference](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/)   
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 modules 7 (KQL) & 8 (Analytics)  
-[Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [Sample queries](https://github.com/rod-trent/SentinelKQL) | [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent) | [KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
+Rod Trent's [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [Sample queries](https://github.com/rod-trent/SentinelKQL)  
+Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent)  
+[KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
@@ -125,6 +127,7 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 | Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) |
 | Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) |
 
+[Must Learn KQL - the series](https://aka.ms/MustLearnKQL)
 
 <a name="asim"></a>
 
