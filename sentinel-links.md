@@ -57,9 +57,9 @@ How-to:
 
 [Azure Lighthouse: Manage Microsoft Sentinel workspaces at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces)
 
-| date | webinar | video | deck | blog |
-| ---- | ------- | ----- | ---- | ---- |
-| Apr 20, 2020 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) | [blog]() |
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| Apr 20, 2020 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) |
 
 2020-09-16 [Build a scalable security practice with Azure Lighthouse and Azure Sentinel](https://azure.microsoft.com/en-us/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/)  
 2020-09-14 [What’s New: Cross-workspace Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-analytics-rules/ba-p/1664211)  
@@ -73,14 +73,14 @@ How-to:
 | ---- | ------- | ----- | ---- | ---- |
 | Mar 31, 2021 | Using Azure Data Explorer as Your Long Term Retention Platform of Azure Sentinel Logs | [YouTube](https://youtu.be/UO8zeTxgeVw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmh0Nnt2bnuFtMWKOL?e=W0aiZ9) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947) |
 
-[How to query data located in Azure Blob Storage, Azure Data Lake Store Gen2/1 with ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/how-to-query-data-located-in-azure-blob-storage-azure-data-lake/ba-p/2301130)  
-[Azure Log Analytics Log Management using Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-log-analytics-log-management-using-azure-data-explorer/ba-p/2270478)
+2021-04-28 [How to query data located in Azure Blob Storage, Azure Data Lake Store Gen2/1 with ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/how-to-query-data-located-in-azure-blob-storage-azure-data-lake/ba-p/2301130)  
+2021-04-13 [Azure Log Analytics Log Management using Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-log-analytics-log-management-using-azure-data-explorer/ba-p/2270478)
 
 <a name="lab"></a>
 
 ## Lab environments
 [Microsoft Sentinel To-Go](https://github.com/OTRF/Microsoft-Sentinel2Go)  
-[Azure Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+[Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
 
 <a name="collection"></a>
 
