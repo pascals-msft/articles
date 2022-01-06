@@ -136,14 +136,14 @@ Rod Trent's [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [S
 Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent)  
 [KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
 
-| date | webinar | video | deck |
-| ---- | ------- | ----- | ---- |
-| Dec 7, 2021 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) |
-| Sep 9, 2020 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) |
-| Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) |
-| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) |
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| Dec 7, 2021 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766) |
+| Sep 9, 2020 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) | |
+| Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) | |
+| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | |
 
-[Must Learn KQL - the series](https://aka.ms/MustLearnKQL)
+2022-01-04 [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
 
 <a name="asim"></a>
 
@@ -186,6 +186,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 | Jan 19, 2021 | Azure Notebooks Fundamentals – How to get started | [YouTube](https://youtu.be/rewdNeX6H94) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhgtEKc1QwMM83p99) |  |
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)  
+2021-12-14 [Microsoft Sentinel Jupyter Notebooks knowledge check test](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784)  
 2021-06-01 [What’s new: Detect credential leaks using built-in Azure Sentinel notebooks!](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-detect-credential-leaks-using-built-in-azure-sentinel/ba-p/2406042)  
 2021-05-21 [The Launch Space: Updates to MSTICPy and Jupyter Notebooks in Azure Sentinel](https://docs.microsoft.com/en-us/shows/The-Launch-Space/Updates-to-MSTICPy-and-Jupyter-Notebooks-in-Azure-Sentinel) | [YouTube](https://www.youtube.com/watch?v=m3YElHwZX1U)  
 2021-04-26 [MSTICPy and Jupyter Notebooks in Azure Sentinel, an update](https://techcommunity.microsoft.com/t5/azure-sentinel/msticpy-and-jupyter-notebooks-in-azure-sentinel-an-update/ba-p/2279661)  
