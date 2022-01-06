@@ -67,6 +67,16 @@ ARM / Bicep
 
 DevOps / CI/CD  
 Azure DevOps / GitHub Actions
+
+```kusto
+// function: Contoso_CommonSecurityLog_parsed
+// source: https://github.com/Azure/Azure-Sentinel/blob/master/Parsers/CommonSecurityLogs-AdditionalExtensionParser.txt
+workspace("CyberSecSOC/soc/CyberSecuritySOC").CommonSecurityLog
+| extend AdditionalExtensions = extract_all(@"(?P<key>\w+)=(?P<value>[a-zA-Z0-9-_:/@. ]+)", dynamic(["key","value"]), AdditionalExtensions)
+| mv-apply AdditionalExtensions on (
+    summarize AdditionalExtensionsParsed = make_bag(pack(tostring(AdditionalExtensions[0]), AdditionalExtensions[1]))
+)
+```
 -->
 
 <a name="operations"></a>
