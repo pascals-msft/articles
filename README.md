@@ -1,8 +1,9 @@
 # Articles and reference links
 
 Articles
-
+<!--
 * [Microsoft Sentinel dans un contexte MSSP](sentinel-mssp/sentinel-mssp.md) [FR] *** DRAFT ***
+-->
 
 Reference links
 
