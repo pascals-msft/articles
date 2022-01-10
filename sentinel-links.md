@@ -27,7 +27,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
+[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)
 
@@ -80,7 +80,8 @@ How-to:
 
 ## Lab environments
 [Microsoft Sentinel To-Go](https://github.com/OTRF/Microsoft-Sentinel2Go)  
-[Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+[Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)  
+2021-11-10 [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 
 <a name="collection"></a>
 
@@ -116,6 +117,7 @@ doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/con
 ### SAP continuous threat monitoring
 doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
 
+2021-12-11 [Microsoft Sentinel - SAP continuous threat monitoring workbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-workbooks/ba-p/3015630)  
 2021-11-22 [Microsoft Sentinel - SAP continuous threat monitoring with UEBA entity pages](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-with-ueba/ba-p/2981154)  
 2021-05-19 [Protecting SAP applications with the new Azure Sentinel SAP threat monitoring solution](https://www.microsoft.com/security/blog/2021/05/19/protecting-sap-applications-with-the-new-azure-sentinel-sap-threat-monitoring-solution/)
 
@@ -136,12 +138,12 @@ Rod Trent's [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [S
 Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent)  
 [KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
 
-| date | webinar | video | deck | blog |
-| ---- | ------- | ----- | ---- | ---- |
+| date | webinar | video | deck | blog/lab |
+| ---- | ------- | ----- | ---- | -------- |
 | Dec 7, 2021 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766) |
 | Sep 9, 2020 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) | |
 | Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) | |
-| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | |
+| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | [lab](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab/blob/master/azure_sentinel_learn_kql_lab.ipynb) |
 
 2022-01-04 [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
 
