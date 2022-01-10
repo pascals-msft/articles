@@ -34,6 +34,8 @@ Free training:
 [GitHub: _Deploy to Azure_ buttons](https://github.com/Azure/Azure-Lighthouse-samples) |
 [Index of the samples](https://docs.microsoft.com/en-us/azure/lighthouse/samples/)
 
+[Sample PowerShell interactive demo](https://github.com/pascals-msft/azure-demos/blob/main/demo-lighthouse.ps1)
+
 Reference docs:
 [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/) |
 [Azure RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/) |
