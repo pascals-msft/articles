@@ -6,6 +6,7 @@ Articles
 
 Reference links
 
+* [Azure Bastion useful links](bastion-links.md)
 * [Azure Lighthouse useful links](lighthouse-links.md)
 * [Microsoft Defender for Cloud useful links](mdc-links.md)
 * [Microsoft Sentinel useful links](sentinel-links.md)
