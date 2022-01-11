@@ -14,8 +14,8 @@ Quick link to this page: https://aka.ms/mdc-links
 <a name="general"></a>
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/defender-for-cloud/) | [What's new](https://docs.microsoft.com/en-us/azure/defender-for-cloud/release-notes) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud) | [GitHub](https://github.com/Azure/Microsoft-Defender-for-Cloud)  
-[Security community, webinars](http://aka.ms/securitycommunity)   
+[Doc](https://docs.microsoft.com/en-us/azure/defender-for-cloud/) | [What's new](https://docs.microsoft.com/en-us/azure/defender-for-cloud/release-notes) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud) | [GitHub](https://github.com/Azure/Microsoft-Defender-for-Cloud) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)  
+[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Defender for Cloud Ninja Training](https://aka.ms/mdfcninja)  
 [Microsoft Defender for Cloud Newsletter](https://aka.ms/MDFCNewsSubscribe)  
 Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [Defender for Cloud in the Field](https://aka.ms/mdfcinthefield)

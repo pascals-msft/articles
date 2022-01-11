@@ -11,5 +11,6 @@ Reference links
 * [Azure Lighthouse useful links](lighthouse-links.md)
 * [Microsoft Defender for Cloud useful links](mdc-links.md)
 * [Microsoft Sentinel useful links](sentinel-links.md)
+* [Common threats](threats-links.md)
 
 Other references: [jplesage/articles](https://github.com/jplesage/articles)
