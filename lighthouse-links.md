@@ -58,5 +58,6 @@ Nobelium Resource Center: https://aka.ms/nobelium
 2021-10-24 [New activity from Russian actor Nobelium](https://blogs.microsoft.com/on-the-issues/2021/10/24/new-activity-from-russian-actor-nobelium/)  
 2021-10-25 [NOBELIUM targeting delegated administrative privileges to facilitate broader attacks](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/)  
 2021-10-25 [Guidance for partners on Nobelium targeted attacks](https://blogs.partner.microsoft.com/mpn/guidance-for-partners-on-nobelium-targeted-attacks/)  
-2021-12-08 [Coming in January 2022: Technical release of granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/announcements/2021-december#9)
+2021-12-08 [Coming in January 2022: Technical release of granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/announcements/2021-december#9)  
+2022-01-04 [Granular delegated admin privileges](https://partner.microsoft.com/en-us/resources/collection/granular-delegated-admin-privileges)
 ___
