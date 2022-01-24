@@ -21,6 +21,7 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [Jupyter Notebooks](#notebooks)
   * [Bring your own Machine Learning (BYOML)](#byoml)
   * [Fusion ML detections](#fusion)
+  * [User and Entity Behavior Analytics (UEBA)](#ueba)
 
 </details>
 
@@ -74,6 +75,7 @@ How-to:
 | ---- | ------- | ----- | ---- | ---- |
 | Mar 31, 2021 | Using Azure Data Explorer as Your Long Term Retention Platform of Azure Sentinel Logs | [YouTube](https://youtu.be/UO8zeTxgeVw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmh0Nnt2bnuFtMWKOL?e=W0aiZ9) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947) |
 
+2021-10-26 [Automation: Integrate Azure Data Explorer as Long-Term Log Retention for Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automation-integrate-azure-data-explorer-as-long-term-log/ba-p/2512703)  
 2021-04-28 [How to query data located in Azure Blob Storage, Azure Data Lake Store Gen2/1 with ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/how-to-query-data-located-in-azure-blob-storage-azure-data-lake/ba-p/2301130)  
 2021-04-13 [Azure Log Analytics Log Management using Azure Data Explorer](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-log-analytics-log-management-using-azure-data-explorer/ba-p/2270478)
 
@@ -155,9 +157,9 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 (formerly *Azure Sentinel Information Model*)  
 [Doc: Normalization and the Advanced SIEM Information Model (ASIM)](https://aka.ms/AzSentinelNormalization)  
 [GitHub: Deploy ASIM parsers](https://github.com/Azure/Azure-Sentinel/tree/master/Parsers/ASim)  
-[What's new: Azure Sentinel Information Model DNS Schema and normalized content now public](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-azure-sentinel-information-model-dns-schema-and/ba-p/2429926)  
-[What's new: ASIM Authentication, Process, Registry and enhanced Network schemas](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-asim-authentication-process-registry-and-enhanced/ba-p/2502268)  
-[What's new: ASIM File Activity schema](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-asim-file-activity-schema/ba-p/2609732)
+2021-06-15 [What's new: Azure Sentinel Information Model DNS Schema and normalized content now public](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-azure-sentinel-information-model-dns-schema-and/ba-p/2429926)  
+2021-07-01 [What's new: ASIM Authentication, Process, Registry and enhanced Network schemas](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-asim-authentication-process-registry-and-enhanced/ba-p/2502268)  
+2021-08-04 [What's new: ASIM File Activity schema](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-asim-file-activity-schema/ba-p/2609732)
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
@@ -193,6 +195,7 @@ MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/mi
 
 2022-01-13 [Single Sign On Support for authentication in Microsoft Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/single-sign-on-support-for-authentication-in-microsoft-sentinel/ba-p/3060112)  
 2021-12-14 [Microsoft Sentinel Jupyter Notebooks knowledge check test](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784)  
+2021-11-02 [Security big data analytics with Azure Synapse and Microsoft Sentinel Notebooks!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-big-data-analytics-with-azure-synapse-and-microsoft/ba-p/2916265)  
 2021-06-01 [What’s new: Detect credential leaks using built-in Azure Sentinel notebooks!](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-detect-credential-leaks-using-built-in-azure-sentinel/ba-p/2406042)  
 2021-05-21 [The Launch Space: Updates to MSTICPy and Jupyter Notebooks in Azure Sentinel](https://docs.microsoft.com/en-us/shows/The-Launch-Space/Updates-to-MSTICPy-and-Jupyter-Notebooks-in-Azure-Sentinel) | [YouTube](https://www.youtube.com/watch?v=m3YElHwZX1U)  
 2021-04-26 [MSTICPy and Jupyter Notebooks in Azure Sentinel, an update](https://techcommunity.microsoft.com/t5/azure-sentinel/msticpy-and-jupyter-notebooks-in-azure-sentinel-an-update/ba-p/2279661)  
@@ -231,7 +234,11 @@ Doc: https://aka.ms/SentinelFusion
 2021-08-09 [What’s new: Fusion Detection for Ransomware](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373)  
 2021-05-12 [What's New: Fusion Advanced Multistage Attack Detection Scenarios with Scheduled Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497)
 
-### User Entity Behavioral Analytics (UEBA)
+<a name="ueba"></a>
+
+### User and Entity Behavior Analytics (UEBA)
+
+[Doc](https://docs.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
