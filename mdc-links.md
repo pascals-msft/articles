@@ -44,10 +44,6 @@ Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?l
 | 2021-04-29 | Demystifying Azure Defender Once for All | [YouTube](https://youtu.be/1_49cUnWRjs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmiAqykRERLojVN6ah?e=CHGHZU) |
 | 2021-03-09 | Azure Defender for Storage | [YouTube](https://youtu.be/02KSB8Yu5yQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhno2a4z4CcSY1coN) |
 | 2020-11-30 | Azure Defender for SQL Anywhere | [YouTube](https://youtu.be/WRtmP9cVinI) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhVOTrnF1LCWkt50U) |
-|  |  | [YouTube]() | [deck]() |
-|  |  | [YouTube]() | [deck]() |
-
-
 
 <a name="architecture"></a>
 
