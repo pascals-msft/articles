@@ -230,3 +230,9 @@ Doc: https://aka.ms/SentinelFusion
 2021-11-04 [Detecting Emerging Threats with Microsoft Sentinel Fusion](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835)  
 2021-08-09 [What’s new: Fusion Detection for Ransomware](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373)  
 2021-05-12 [What's New: Fusion Advanced Multistage Attack Detection Scenarios with Scheduled Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497)
+
+### User Entity Behavioral Analytics (UEBA)
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2022-01-19 | Present and Future of User Entity Behavioral Analytics in Microsoft Sentinel | [YouTube](https://youtu.be/dLVAkSLKLyQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmklCGjFh58XHq_tNO?e=WO8UNi) |

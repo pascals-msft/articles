@@ -23,12 +23,31 @@ Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [De
 <a name="CSPM"></a>
 
 ## Cloud security posture management (CSPM)
+
 [Security Recommendations reference](https://docs.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)
+
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2021-11-17 | NextGen Multi Cloud CSPM in Microsoft Defender for Cloud | [YouTube](https://youtu.be/mC3C38L3KEI) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkTseStXrj72dpO-t?e=7UNlub) |
+| 2021-02-23 |  Best Practices for Improving Your Secure Score | [YouTube](https://youtu.be/jcrVqFd5KN4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhmop4sIci4-vqEke) |
 
 <a name="CWP"></a>
 
 ## Cloud workload protection (CWP)
 Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?list=PLnQ8_FdCQrSntBmCpZfC5Za6zIsREuWZ3) [FR]
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2022-01-12 | Introducing Microsoft Defender for Containers | [YouTube](https://youtu.be/lCxhu07o28o) | [deck](https://1drv.ms/p/s!AnEPjr8tHcNmkkInoM2w09ZWjcX4?e=hY4sRF) |
+| 2021-10-27 | Azure Defender for SQL | [YouTube](https://youtu.be/yBbBbO1mvRs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmj3cvpqavyQAajZ1i?e=uAKVFw) |
+| 2021-04-29 | Demystifying Azure Defender Once for All | [YouTube](https://youtu.be/1_49cUnWRjs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmiAqykRERLojVN6ah?e=CHGHZU) |
+| 2021-03-09 | Azure Defender for Storage | [YouTube](https://youtu.be/02KSB8Yu5yQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhno2a4z4CcSY1coN) |
+| 2020-11-30 | Azure Defender for SQL Anywhere | [YouTube](https://youtu.be/WRtmP9cVinI) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhVOTrnF1LCWkt50U) |
+|  |  | [YouTube]() | [deck]() |
+|  |  | [YouTube]() | [deck]() |
+
+
 
 <a name="architecture"></a>
 
