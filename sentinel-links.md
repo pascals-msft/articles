@@ -71,6 +71,9 @@ How-to:
 <a name="adx"></a>
 
 ### Long term retention on Azure Data Explorer (ADX)
+
+Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.microsoft.com/en-us/azure/sentinel/store-logs-in-azure-data-explorer)
+
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
 | Mar 31, 2021 | Using Azure Data Explorer as Your Long Term Retention Platform of Azure Sentinel Logs | [YouTube](https://youtu.be/UO8zeTxgeVw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmh0Nnt2bnuFtMWKOL?e=W0aiZ9) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947) |
