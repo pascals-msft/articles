@@ -19,7 +19,7 @@ Quick link to this page: https://aka.ms/lighthouse-links
 [Community](https://techcommunity.microsoft.com/t5/azure-lighthouse/bd-p/AzureLighthouse) |
 [GitHub](https://github.com/Azure/Azure-Lighthouse-samples)
 
-[4 reasons customers are asking service partners for Azure Lighthouse](https://azure.microsoft.com/en-us/blog/4-reasons-customers-are-asking-service-partners-for-azure-lighthouse/)
+2021-01-25 [4 reasons customers are asking service partners for Azure Lighthouse](https://azure.microsoft.com/en-us/blog/4-reasons-customers-are-asking-service-partners-for-azure-lighthouse/)
 
 Free training:
 * [Use Azure Lighthouse with your managed service business](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/) (with online lab)
@@ -59,5 +59,5 @@ Nobelium Resource Center: https://aka.ms/nobelium
 2021-10-25 [NOBELIUM targeting delegated administrative privileges to facilitate broader attacks](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/)  
 2021-10-25 [Guidance for partners on Nobelium targeted attacks](https://blogs.partner.microsoft.com/mpn/guidance-for-partners-on-nobelium-targeted-attacks/)  
 2021-12-08 [Coming in January 2022: Technical release of granular delegated admin privileges (GDAP)](https://docs.microsoft.com/en-us/partner-center/announcements/2021-december#9)  
-2022-01-04 [Granular delegated admin privileges](https://partner.microsoft.com/en-us/resources/collection/granular-delegated-admin-privileges)
+2022-01-04 [Granular delegated admin privileges](https://partner.microsoft.com/en-us/resources/collection/granular-delegated-admin-privileges) (need to sign in with your Microsoft Partner Network account)
 ___

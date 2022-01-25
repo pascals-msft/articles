@@ -20,11 +20,15 @@ Quick link to this page: https://aka.ms/mdc-links
 [Microsoft Defender for Cloud Newsletter](https://aka.ms/MDFCNewsSubscribe)  
 Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [Defender for Cloud in the Field](https://aka.ms/mdfcinthefield)
 
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2022-01-20 | What's New in 3 Months | [YouTube](https://youtu.be/Hdlgajm6TrQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkl07JpGza_SV8O5f?e=7LDLvP) |
+
 <a name="CSPM"></a>
 
 ## Cloud security posture management (CSPM)
 
-[Security Recommendations reference](https://docs.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)
+Doc: [Security Recommendations reference](https://docs.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)
 
 
 | date | webinar | video | deck |
@@ -35,6 +39,9 @@ Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [De
 <a name="CWP"></a>
 
 ## Cloud workload protection (CWP)
+
+Doc: [Reference list of alerts](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)
+
 Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?list=PLnQ8_FdCQrSntBmCpZfC5Za6zIsREuWZ3) [FR]
 
 | date | webinar | video | deck | blog |
