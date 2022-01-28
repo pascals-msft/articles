@@ -52,6 +52,12 @@ Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?l
 | 2021-03-09 | Azure Defender for Storage | [YouTube](https://youtu.be/02KSB8Yu5yQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhno2a4z4CcSY1coN) |
 | 2020-11-30 | Azure Defender for SQL Anywhere | [YouTube](https://youtu.be/WRtmP9cVinI) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhVOTrnF1LCWkt50U) |
 
+2022-01-24 [Validating Alerts on Microsoft Defender for SQL on machines](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/validating-alerts-on-microsoft-defender-for-sql-on-machines/ba-p/3070714)  
+2022-01-18 [Microsoft Defender for Cloud PoC Series - Microsoft Defender for Containers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-microsoft-defender-for/ba-p/3064644)  
+2021-12-09 [Introducing Microsoft Defender for Containers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-microsoft-defender-for-containers/ba-p/2952317)  
+2021-09-20 [Microsoft Defender for Cloud PoC Series - Defender for Servers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-defender-for-servers/ba-p/2767508)
+
+
 <a name="architecture"></a>
 
 ## Architecture

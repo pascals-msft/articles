@@ -42,6 +42,10 @@ Microsoft security blog:
 * 2021-09-20 [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
 * 2020-03-05 [Human-operated ransomware attacks: A preventable disaster](https://www.microsoft.com/security/blog/2020/03/05/human-operated-ransomware-attacks-a-preventable-disaster/)
 
+Microsoft whitepapers:
+* [Maximize Ransomware Resiliency with Azure and Microsoft 365](https://azure.microsoft.com/en-us/resources/maximize-ransomware-resiliency-with-azure-and-microsoft-365/) (Oct. 2021)
+* [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/) (Sep. 2021)
+
 Microsoft Sentinel: [Fusion detection for ransomware](https://docs.microsoft.com/en-us/azure/sentinel/fusion#fusion-for-ransomware) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373)
 
 Microsoft Ignite:

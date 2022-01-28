@@ -48,16 +48,20 @@ Quick link to this page: https://aka.ms/sentinel-links
 
 ### Microsoft Sentinel for MSSPs
 
-[Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]  
-[Extend Microsoft Sentinel across workspaces and tenants](https://docs.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
+Reference: [Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp) [pdf]
 
 How-to:
+* [Extend Microsoft Sentinel across workspaces and tenants](https://docs.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
 * [Manage multiple tenants in Microsoft Sentinel as an MSSP](https://docs.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)
 * [Work with incidents in many workspaces at once](https://docs.microsoft.com/en-us/azure/sentinel/multiple-workspace-view)
 * [Protecting MSSP intellectual property in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
-* [Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/service-providers)
 
-[Azure Lighthouse: Manage Microsoft Sentinel workspaces at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces)
+Log Analytics multi-workspace best practices:
+* [Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/service-providers)
+* [Designing your Azure Monitor Logs deployment](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/design-logs-deployment)
+
+Azure Lighthouse doc:
+* [Manage Microsoft Sentinel workspaces at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/manage-sentinel-workspaces)
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
@@ -85,6 +89,8 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 <a name="lab"></a>
 
 ## Lab environments
+
+[SimuLand](https://github.com/Azure/SimuLand)  
 [Microsoft Sentinel To-Go](https://github.com/OTRF/Microsoft-Sentinel2Go)  
 [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)  
 2021-11-10 [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
