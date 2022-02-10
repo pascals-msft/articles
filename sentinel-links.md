@@ -65,7 +65,7 @@ Azure Lighthouse doc:
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
-| Apr 20, 2020 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) |
+| 2020-04-20 | MSSP and Distributed Organization Support | [YouTube](https://youtu.be/hwahlwgJPnE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8) |
 
 2020-09-16 [Build a scalable security practice with Azure Lighthouse and Azure Sentinel](https://azure.microsoft.com/en-us/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/)  
 2020-09-14 [What’s New: Cross-workspace Analytics Rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-cross-workspace-analytics-rules/ba-p/1664211)  
@@ -80,7 +80,7 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| Mar 31, 2021 | Using Azure Data Explorer as Your Long Term Retention Platform of Azure Sentinel Logs | [YouTube](https://youtu.be/UO8zeTxgeVw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmh0Nnt2bnuFtMWKOL?e=W0aiZ9) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947) |
+| 2021-03-31 | Using Azure Data Explorer as Your Long Term Retention Platform of Azure Sentinel Logs | [YouTube](https://youtu.be/UO8zeTxgeVw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmh0Nnt2bnuFtMWKOL?e=W0aiZ9) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/using-azure-data-explorer-for-long-term-retention-of-microsoft/ba-p/1883947) |
 
 2021-10-26 [Automation: Integrate Azure Data Explorer as Long-Term Log Retention for Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automation-integrate-azure-data-explorer-as-long-term-log/ba-p/2512703)  
 2021-04-28 [How to query data located in Azure Blob Storage, Azure Data Lake Store Gen2/1 with ADX](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/how-to-query-data-located-in-azure-blob-storage-azure-data-lake/ba-p/2301130)  
@@ -114,7 +114,7 @@ doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/con
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
-| Nov 22, 2021 | Everything You Ever Wanted to Know About Using the New Azure Monitor Agent (AMA) with Microsoft Sentinel | [YouTube](https://youtu.be/Tvs-5JbGK-c) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVMcK42jaoKocz9Z?e=Itj8px) |
+| 2021-11-22 | Everything You Ever Wanted to Know About Using the New Azure Monitor Agent (AMA) with Microsoft Sentinel | [YouTube](https://youtu.be/Tvs-5JbGK-c) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVMcK42jaoKocz9Z?e=Itj8px) |
 
 <a name="m365d"></a>
 
@@ -138,8 +138,8 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
-| Nov 9, 2021 | SAP Mini-Series Part 2: Deep Dive - End-to-End Installation of SAP for Microsoft Sentinel | [YouTube](https://youtu.be/n8StWQ_jZbM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVYkhX-N4UsnWmAJ?e=wGKYfP) |
-| Oct 18, 2021 | SAP Mini-Series Part 1: Introduction to Monitoring SAP with Azure Sentinel for Security Professionals | [YouTube](https://www.youtube.com/watch?v=oG9GTc7g3Bg) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjwkIAN5ljRtag3dh?e=s0iQQg) |
+| 2021-11-09 | SAP Mini-Series Part 2: Deep Dive - End-to-End Installation of SAP for Microsoft Sentinel | [YouTube](https://youtu.be/n8StWQ_jZbM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVYkhX-N4UsnWmAJ?e=wGKYfP) |
+| 2021-10-18 | SAP Mini-Series Part 1: Introduction to Monitoring SAP with Azure Sentinel for Security Professionals | [YouTube](https://www.youtube.com/watch?v=oG9GTc7g3Bg) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjwkIAN5ljRtag3dh?e=s0iQQg) |
 
 <a name="kql"></a>
 
@@ -152,10 +152,10 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 | date | webinar | video | deck | blog/lab |
 | ---- | ------- | ----- | ---- | -------- |
-| Dec 7, 2021 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766) |
-| Sep 9, 2020 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) | |
-| Jul 28, 2020 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) | |
-| Jun 2, 2020 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | [lab](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab/blob/master/azure_sentinel_learn_kql_lab.ipynb) |
+| 2021-12-07 | KQL Framework for Microsoft Sentinel -Empowering You to Become KQL-Savvy | [YouTube](https://youtu.be/j7BQvJ-Qx_k) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkgqKSV-m1QWgkzKT?e=QAilwu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/advanced-kql-framework-workbook-empowering-you-to-become-kql/ba-p/3033766) |
+| 2020-09-09 | KQL part 3 of 3 - Optimizing Azure Sentinel KQL queries performance | [YouTube](https://youtu.be/jN1Cz0JcLYU) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmg2imjIS8NABc26b-?e=rXZrR5) | |
+| 2020-07-28 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) | |
+| 2020-06-02 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | [lab](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab/blob/master/azure_sentinel_learn_kql_lab.ipynb) |
 
 2022-01-11 [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)  
 2022-01-04 [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
@@ -174,9 +174,9 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
-| Oct, 6, 2021 | Turbocharging ASIM: Making Sure Normalization Helps Performance Rather Than Impacting It | [YouTube](https://youtu.be/-dg_0NBIoak) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjnQITNn35QafW5V2?e=GnCDkA) |
-| Aug 11, 2021 | Deep Dive into Azure Sentinel Normalizing Parsers and Normalized Content | [YouTube](https://youtu.be/Yv1Ja0Sk6wY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjGtoRPQ2XYe3wQDz?e=R3dWeM) |
-| Jul 28, 2021 | The Information Model: Understanding Normalization in Azure Sentinel | [YouTube](https://youtu.be/kTaKqQKzt_o) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjDY1cro08Fk3KUj-?e=murYHG) |
+| 2021-10-06 | Turbocharging ASIM: Making Sure Normalization Helps Performance Rather Than Impacting It | [YouTube](https://youtu.be/-dg_0NBIoak) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjnQITNn35QafW5V2?e=GnCDkA) |
+| 2021-08-11 | Deep Dive into Azure Sentinel Normalizing Parsers and Normalized Content | [YouTube](https://youtu.be/Yv1Ja0Sk6wY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjGtoRPQ2XYe3wQDz?e=R3dWeM) |
+| 2021-07-28 | The Information Model: Understanding Normalization in Azure Sentinel | [YouTube](https://youtu.be/kTaKqQKzt_o) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjDY1cro08Fk3KUj-?e=murYHG) |
 
 <a name="ml"></a>
 
@@ -194,11 +194,12 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| Dec 16, 2021 | Become a Jupyter Notebooks Ninja – MSTICPy Fundamentals to Build Your Own Notebooks | [YouTube](https://youtu.be/S0knTOnA2Rk) |  |  |
-| Oct 11, 2021 | Become a Notebooks Ninja – Getting Started with Jupyter Notebooks in Azure Sentinel | [YouTube](https://youtu.be/JLOhfoovASE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjmnUOdOAguEDWvz5?e=gYHOkU) |  |
-| Jul 20, 2021 | Streamlining your SOC Workflow with Automated Notebooks | [YouTube](https://youtu.be/DinI1I1pbz4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi2wGTRPLKwedfnTg?e=Sei3an) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775) |
-| Jul 13, 2021  | Customizing Azure Sentinel with Python - MSTICPy and Jupyter Notebooks | [YouTube](https://youtu.be/OC4TeNUxSR0) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi1M7k3EWkflm-JYf?e=6ggEbr) |  |
-| Jan 19, 2021 | Azure Notebooks Fundamentals – How to get started | [YouTube](https://youtu.be/rewdNeX6H94) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhgtEKc1QwMM83p99) |  |
+| 2022-02-03 | Become a Jupyter Notebooks Ninja – MSTICPy Intermediate to Build Your Own Notebooks | [YouTube](https://youtu.be/Rpj-FS_0Wqg) | | |
+| 2021-12-16 | Become a Jupyter Notebooks Ninja – MSTICPy Fundamentals to Build Your Own Notebooks | [YouTube](https://youtu.be/S0knTOnA2Rk) | | |
+| 2021-10-11 | Become a Notebooks Ninja – Getting Started with Jupyter Notebooks in Azure Sentinel | [YouTube](https://youtu.be/JLOhfoovASE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjmnUOdOAguEDWvz5?e=gYHOkU) | |
+| 2021-07-20 | Streamlining your SOC Workflow with Automated Notebooks | [YouTube](https://youtu.be/DinI1I1pbz4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi2wGTRPLKwedfnTg?e=Sei3an) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/software-defined-monitoring-using-automated-notebooks-and-azure/ba-p/2587775) |
+| 2021-07-13  | Customizing Azure Sentinel with Python - MSTICPy and Jupyter Notebooks | [YouTube](https://youtu.be/OC4TeNUxSR0) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmi1M7k3EWkflm-JYf?e=6ggEbr) |  |
+| 2021-01-19 | Azure Notebooks Fundamentals – How to get started | [YouTube](https://youtu.be/rewdNeX6H94) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhgtEKc1QwMM83p99) |  |
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
@@ -225,7 +226,7 @@ MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/mi
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| Jan 12, 2021 | Machine Learning detections in the AI-infused Azure Sentinel SIEM | [YouTube](https://youtu.be/DxZXHvq1jOs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhgUqL5UfmNuKNa81) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-your-own-machine-learning-detections-in-the-ai-immersed/ba-p/1750920) |
+| 2021-01-12 | Machine Learning detections in the AI-infused Azure Sentinel SIEM | [YouTube](https://youtu.be/DxZXHvq1jOs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhgUqL5UfmNuKNa81) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/build-your-own-machine-learning-detections-in-the-ai-immersed/ba-p/1750920) |
 
 <a name="fusion"></a>
 
@@ -236,8 +237,8 @@ Doc: https://aka.ms/SentinelFusion
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| Dec 1, 2021 | Fusion ML Detections for Emerging Threats & Configuration UI | [YouTube](https://youtu.be/bTDp41yMGdk) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkW-CSAjk6o2O27Mx?e=fa0p2q) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835) |
-| Aug 18, 2021 | Fusion ML Detections with Scheduled Analytics Rules | [YouTube](https://youtu.be/lmXHAAFBoPw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjQo_9QDdeDd1ufdj?e=HS3DAJ) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497) |
+| 2021-12-01 | Fusion ML Detections for Emerging Threats & Configuration UI | [YouTube](https://youtu.be/bTDp41yMGdk) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkW-CSAjk6o2O27Mx?e=fa0p2q) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835) |
+| 2021-08-18 | Fusion ML Detections with Scheduled Analytics Rules | [YouTube](https://youtu.be/lmXHAAFBoPw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjQo_9QDdeDd1ufdj?e=HS3DAJ) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497) |
 
 2021-11-04 [Detecting Emerging Threats with Microsoft Sentinel Fusion](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835)  
 2021-08-09 [What’s new: Fusion Detection for Ransomware](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373)  

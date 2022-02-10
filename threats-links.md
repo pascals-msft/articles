@@ -10,6 +10,7 @@ Quick link to this page: https://aka.ms/threats-links
 
 ## Log4j vulnerabilities
 
+2022-02-07 [What's New: Consolidating Apache Log4j-related insights across Multiple Tenants and Workspaces](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-consolidating-apache-log4j-related-insights-across/ba-p/3061161)  
 2021-12-11 [Guidance for preventing, detecting, and hunting for exploitation of the Log4j 2 vulnerability](https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/)  
 2021-12-11 [Microsoft’s Response to CVE-2021-44228 Apache Log4j 2](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) (MSRC)  
 2021-12-13 [How Defender for Cloud displays machines affected by Log4j vulnerabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-defender-for-cloud-displays-machines-affected-by-log4j/ba-p/3037271)  
@@ -17,7 +18,8 @@ Quick link to this page: https://aka.ms/threats-links
 
 ## Nobelium (Solorigate) (Solarwinds)
 
-Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.ms/nobelium
+Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.ms/nobelium  
+[Decoding NOBELIUM: the Docuseries](https://www.youtube.com/playlist?list=PL3ZTgFEc7Lyt46DSa1sUR9YUK1OuGIeNB)
 
 ## OMI Vulnerabilities
 
