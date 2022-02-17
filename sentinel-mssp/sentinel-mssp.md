@@ -15,19 +15,14 @@
 <a name="intro"></a>
 
 ## Introduction
-Le [_Managed Security Service Provider_ (MSSP)](https://en.wikipedia.org/wiki/Managed_security_service), comme son nom l'indique, fournit des services de sécurité à ses clients.
+Le [_Managed Security Service Provider_ (MSSP)](https://en.wikipedia.org/wiki/Managed_security_service), comme son nom l'indique, fournit des services de sécurité à ses clients. Parmi ces services, celui qui nous intéresse est l'opération d'un [SOC (_Security Operation Center_)](https://en.wikipedia.org/wiki/Information_security_operations_center). Par ses fonctions de [SIEM et de SOAR](https://docs.microsoft.com/en-us/azure/sentinel/overview), [Microsoft Sentinel](https://azure.microsoft.com/services/azure-sentinel) est un bon candidat pour ce type de service. Comment s'y prendre en tant que fournisseur d'un service de SOC pour surveiller les environnements hybrides de ses différents clients, détecter et analyser les incidents de sécurité dans ces environnements, et déclencher les actions nécessaires ?
 
-Parmi ces services, celui qui nous intéresse est l'opération d'un [SOC (Security Operation Center)](https://en.wikipedia.org/wiki/Information_security_operations_center). Par ses fonctions de [SIEM et de SOAR](https://docs.microsoft.com/en-us/azure/sentinel/overview), [Microsoft Sentinel](https://azure.microsoft.com/services/azure-sentinel) est un bon candidat pour ce type de service. Comment s'y prendre en tant que fournisseur d'un service de SOC pour surveiller les environnements hybrides de ses clients, détecter et gérer les incidents de sécurité dans ces environnements, et déclencher les actions nécessaires ?
+Cet article ne prétend pas être exhaustif sur le sujet puisque l'équipe CxE Sentinel a publié, début mars 2021, un guide complet sur le sujet : [_Azure Sentinel Technical Playbook for MSSPs_](https://aka.ms/azsentinelmssp), dont je recommande vivement la lecture préalable. Voir également [en fin d'article](#references) les autres sources qui font référence dans le domaine.
 
-Cet article ne prétend pas être exhaustif sur le sujet puisque l'équipe CxE Sentinel a publié, début mars 2021, un guide complet sur le sujet : [Azure Sentinel Technical Playbook for MSSPs](https://aka.ms/azsentinelmssp), dont je recommande vivement la lecture préalable. Voir également [en fin d'article](#references) les autres sources qui font référence dans le domaine.
+L'objectif de cet article est donc de fournir quelques éléments complémentaires et pratiques, autour des sujets suivants :
 
-L'objectif de cet article est donc de fournir quelques éléments complémentaires et pratiques sur le sujet.
-
-Pour utiliser Microsoft Sentinel dans un contexte où un MSSP fournit le service à plusieurs clients, il faut s'intéresser à :
-
- - Azure Lighthouse,
- - le déploiement automatisé de Microsoft Sentinel,
- - le fonctionnement de Microsoft Sentinel sur plusieurs tenants et plusieurs workspaces.
+* Mise en œuvre d'Azure Lighthouse pour le management multi-_tenant_.
+* Fonctionnement de Microsoft Sentinel en mode multi-_tenant_.
 
 *** DRAFT ***
 
@@ -36,7 +31,25 @@ Pour utiliser Microsoft Sentinel dans un contexte où un MSSP fournit le service
 ## Azure Lighthouse
 *** DRAFT ***
 
+Pour en savoir plus sur Azure Lighthouse, voir les liens utiles réunis sur [cette page](https://aka.ms/lighthouse-links).
+
+Le principe d'Azure Lighthouse est de permettre l'administration multi-_tenant_. C'est à dire, faire en sorte qu'une identité appartenant à un _tenant_ Azure AD puisse effectuer des actions sur des ressources d'un abonnement Azure dépendant d'un autre _tenant_. Un fournisseur de service ayant en général plus d'un client, Azure Lighthouse permettra à ses utilisateurs d'administrer les ressources Azure de tous ses clients, sans changer d'identité, sans avoir recours à des comptes _Guests_ dans les _tenants_ des clients.
+
+### Offres et délégations
+
+"Microsoft.ManagedServices/registrationDefinitions"
+
+"Microsoft.ManagedServices/registrationAssignments"
+
+### _Onboarding_
+
+
+
+
+
 <!--
+
+
 Offres et délégations
 Permissions nécessaires pour Sentinel
 Exemple :
@@ -122,8 +135,9 @@ Documentation :
 - [Extend Microsoft Sentinel across workspaces and tenants](https://docs.microsoft.com/en-us/azure/sentinel/extend-sentinel-across-workspaces-tenants)
 - [Manage multiple tenants in Microsoft Sentinel as an MSSP](https://docs.microsoft.com/en-us/azure/sentinel/multiple-tenants-service-providers)
 - [Protecting MSSP intellectual property in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/mssp-protect-intellectual-property)
+- [Azure Monitor Logs for Service Providers](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/service-providers)
 
 Autres liens utiles :
  - [Liens utiles sur Azure Lighthouse](https://aka.ms/lighthouse-links)
- - [Liens utiles sur Microsoft Sentinel](https://aka.ms/sentinel-links)
+ - [Liens utiles sur Microsoft Sentinel](https://aka.ms/sentinel-links) ([infos pour les MSSP](../sentinel-links.md#mssp))
 
