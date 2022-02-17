@@ -4,6 +4,7 @@ Quick link to this page: https://aka.ms/threats-links
 
 ## General
 
+[Cyber Signals](https://news.microsoft.com/cyber-signals/) | quick link: https://aka.ms/cyber-signals  
 [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report) (Oct. 2021)  
 [Microsoft Security Response Center blog](https://msrc-blog.microsoft.com/)  
 [Microsoft Security blog](https://www.microsoft.com/security/blog/)
@@ -39,6 +40,8 @@ Azure security fundamentals:
 2021-10-09 Whitepaper: [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/)  
 
 Microsoft security blog:
+* 2022-02-03 [Cyber Signals: Defending against cyber threats with the latest research, insights, and trends](https://www.microsoft.com/security/blog/2022/02/03/cyber-signals-defending-against-cyber-threats-with-the-latest-research-insights-and-trends/)
+* 2022-01-25 [How CISOs are preparing to tackle 2022](https://www.microsoft.com/security/blog/2022/01/25/how-cisos-are-preparing-to-tackle-2022/)
 * 2021-11-15 [AI-driven adaptive protection against human-operated ransomware](https://www.microsoft.com/security/blog/2021/11/15/ai-driven-adaptive-protection-against-human-operated-ransomware/)
 * 2021-09-27 [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
 * 2021-09-20 [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
