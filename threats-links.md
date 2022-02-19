@@ -17,6 +17,9 @@ Quick link to this page: https://aka.ms/threats-links
 2021-12-13 [How Defender for Cloud displays machines affected by Log4j vulnerabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-defender-for-cloud-displays-machines-affected-by-log4j/ba-p/3037271)  
 2021-12-16 [What’s New: Detecting Apache Log4j vulnerabilities with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-detecting-apache-log4j-vulnerabilities-with-microsoft/ba-p/3040391)
 
+2021-12-14 [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)  
+2021-12-13 [GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)
+
 ## Nobelium (Solorigate) (Solarwinds)
 
 Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.ms/nobelium  

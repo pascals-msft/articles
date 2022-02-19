@@ -44,6 +44,9 @@ Documentation:
 
 [GitHub Code security](https://docs.github.com/en/code-security)
 
+[GitHub blog - Security](https://github.blog/category/security/)
+
+2022-02-17 [Code scanning finds more vulnerabilities using machine learning](https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/)
 
 
 <a name="build"></a>
@@ -55,4 +58,7 @@ Documentation:
 <a name="prod"></a>
 
 ## Go to production and operate
+
+[Secure DevOps Kit for Azure (AzSK)](https://azsk.azurewebsites.net/)
+
 

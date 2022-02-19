@@ -203,6 +203,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-02-17 [Visualize User and App Access Connections in Azure using Jupyter Notebooks in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/visualize-user-and-app-access-connections-in-azure-using-jupyter/ba-p/3167987)  
 2022-01-13 [Single Sign On Support for authentication in Microsoft Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/single-sign-on-support-for-authentication-in-microsoft-sentinel/ba-p/3060112)  
 2021-12-14 [Microsoft Sentinel Jupyter Notebooks knowledge check test](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784)  
 2021-11-02 [Security big data analytics with Azure Synapse and Microsoft Sentinel Notebooks!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/security-big-data-analytics-with-azure-synapse-and-microsoft/ba-p/2916265)  
