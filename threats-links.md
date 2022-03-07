@@ -9,6 +9,11 @@ Quick link to this page: https://aka.ms/threats-links
 [Microsoft Security Response Center blog](https://msrc-blog.microsoft.com/)  
 [Microsoft Security blog](https://www.microsoft.com/security/blog/)
 
+## Ukraine related threats
+
+2022-02-28 [Cyber threat activity in Ukraine: analysis and resources](https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/) (MSRC)  
+2022-02-28 [Digital technology and the war in Ukraine](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/) (Brad Smith)
+
 ## Log4j vulnerabilities
 
 2022-02-07 [What's New: Consolidating Apache Log4j-related insights across Multiple Tenants and Workspaces](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-consolidating-apache-log4j-related-insights-across/ba-p/3061161)  
@@ -40,8 +45,6 @@ Microsoft Security Best Practices:
 Azure security fundamentals:
 * [Backup and restore plan to protect against ransomware](https://docs.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware)
 
-2021-10-09 Whitepaper: [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/)  
-
 Microsoft security blog:
 * 2022-02-03 [Cyber Signals: Defending against cyber threats with the latest research, insights, and trends](https://www.microsoft.com/security/blog/2022/02/03/cyber-signals-defending-against-cyber-threats-with-the-latest-research-insights-and-trends/)
 * 2022-01-25 [How CISOs are preparing to tackle 2022](https://www.microsoft.com/security/blog/2022/01/25/how-cisos-are-preparing-to-tackle-2022/)
@@ -55,7 +58,9 @@ Microsoft whitepapers:
 * [Maximize Ransomware Resiliency with Azure and Microsoft 365](https://azure.microsoft.com/en-us/resources/maximize-ransomware-resiliency-with-azure-and-microsoft-365/) (Oct. 2021)
 * [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/) (Sep. 2021)
 
-Microsoft Sentinel: [Fusion detection for ransomware](https://docs.microsoft.com/en-us/azure/sentinel/fusion#fusion-for-ransomware) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373)
+Microsoft security products:
+* Microsoft Defender for Endpoint: [Defending against ransomware with Microsoft Defender for Endpoint and Intel TDT: A Case Study](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-against-ransomware-with-microsoft-defender-for/ba-p/3243941) (Mar. 2022)
+* Microsoft Sentinel: [Fusion detection for ransomware](https://docs.microsoft.com/en-us/azure/sentinel/fusion#fusion-for-ransomware) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373) (Aug. 2021)
 
 Microsoft Ignite:
 * [Business continuity & ransomware protection through backup, disaster recovery solutions for on-premises and cloud.](https://myignite.microsoft.com/sessions/091d407f-0540-48ac-b24c-8c881d1ea634?source=sessions)
