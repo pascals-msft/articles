@@ -32,6 +32,10 @@ Quick link to this page: https://aka.ms/sentinel-links
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)
 
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| 2022-03-01 | What's Next in Microsoft Sentinel | [YouTube](https://youtu.be/40A0N8Gfi0w) | | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133) |
+
 <a name="architecture"></a>
 
 ## Architecture

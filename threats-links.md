@@ -2,6 +2,19 @@
 
 Quick link to this page: https://aka.ms/threats-links
 
+<details><summary>Table of contents</summary>
+
+* [General](#general)
+* [Ukraine related threats](#ukraine)
+* [Log4j vulnerabilities](#log4j)
+* [Nobelium (Solorigate) (Solarwinds)](#nobelium)
+* [OMI Vulnerabilities](#omi)
+* [Ransomware](#ransomware)
+
+</details>
+
+<a name="general"></a>
+
 ## General
 
 [Cyber Signals](https://news.microsoft.com/cyber-signals/) | quick link: https://aka.ms/cyber-signals  
@@ -9,10 +22,14 @@ Quick link to this page: https://aka.ms/threats-links
 [Microsoft Security Response Center blog](https://msrc-blog.microsoft.com/)  
 [Microsoft Security blog](https://www.microsoft.com/security/blog/)
 
+<a name="ukraine"></a>
+
 ## Ukraine related threats
 
 2022-02-28 [Cyber threat activity in Ukraine: analysis and resources](https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/) (MSRC)  
 2022-02-28 [Digital technology and the war in Ukraine](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/) (Brad Smith)
+
+<a name="log4j"></a>
 
 ## Log4j vulnerabilities
 
@@ -25,16 +42,22 @@ Quick link to this page: https://aka.ms/threats-links
 2021-12-14 [Using GitHub’s security features to help identify Log4j exposure in your codebase](https://github.blog/2021-12-14-using-githubs-security-features-identify-log4j-exposure-codebase/)  
 2021-12-13 [GitHub’s response to Log4j vulnerability CVE-2021-44228](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)
 
+<a name="nobelium"></a>
+
 ## Nobelium (Solorigate) (Solarwinds)
 
 Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.ms/nobelium  
 [Decoding NOBELIUM: the Docuseries](https://www.youtube.com/playlist?list=PL3ZTgFEc7Lyt46DSa1sUR9YUK1OuGIeNB)
+
+<a name="omi"></a>
 
 ## OMI Vulnerabilities
 
 2021-09-16 [Additional Guidance Regarding OMI Vulnerabilities within Azure VM Management Extensions](https://msrc-blog.microsoft.com/2021/09/16/additional-guidance-regarding-omi-vulnerabilities-within-azure-vm-management-extensions/) (MSRC)  
 2021-09-18 [Hunting for OMI Vulnerability Exploitation with Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-omi-vulnerability-exploitation-with-azure-sentinel/ba-p/2764093)  
 2021-09-20 [How Defender for Cloud finds VMs affected by OMI vulnerabilities in Azure VM Management Extensions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-defender-for-cloud-finds-vms-affected-by-omi-vulnerabilities/ba-p/2767240)
+
+<a name="ransomware"></a>
 
 ## Ransomware
 
