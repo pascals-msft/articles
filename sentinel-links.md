@@ -30,7 +30,8 @@ Quick link to this page: https://aka.ms/sentinel-links
 ## General
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
-[Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)
+[Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
+[Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/)
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
@@ -133,6 +134,7 @@ doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/con
 ### SAP continuous threat monitoring
 doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
 
+2022-02-23 [Microsoft Sentinel - SAP User Master Data](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-user-master-data/ba-p/3190034)  
 2021-12-11 [Microsoft Sentinel - SAP continuous threat monitoring workbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-workbooks/ba-p/3015630)  
 2021-11-22 [Microsoft Sentinel - SAP continuous threat monitoring with UEBA entity pages](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-with-ueba/ba-p/2981154)  
 2021-05-19 [Protecting SAP applications with the new Azure Sentinel SAP threat monitoring solution](https://www.microsoft.com/security/blog/2021/05/19/protecting-sap-applications-with-the-new-azure-sentinel-sap-threat-monitoring-solution/)
