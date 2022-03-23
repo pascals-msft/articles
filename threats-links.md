@@ -5,6 +5,7 @@ Quick link to this page: https://aka.ms/threats-links
 <details><summary>Table of contents</summary>
 
 * [General](#general)
+* [LAPSUS$ (DEV-0537)](#lapsus)
 * [Ukraine related threats](#ukraine)
 * [Log4j vulnerabilities](#log4j)
 * [Nobelium (Solorigate) (Solarwinds)](#nobelium)
@@ -21,6 +22,12 @@ Quick link to this page: https://aka.ms/threats-links
 [Microsoft Digital Defense Report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report) (Oct. 2021)  
 [Microsoft Security Response Center blog](https://msrc-blog.microsoft.com/)  
 [Microsoft Security blog](https://www.microsoft.com/security/blog/)
+
+<a name="lapsus"></a>
+
+## LAPSUS$ (DEV-0537)
+
+2022-03-22 [DEV-0537 criminal actor targeting organizations for data exfiltration and destruction](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/)
 
 <a name="ukraine"></a>
 
@@ -93,7 +100,9 @@ Microsoft Ignite:
 ANSSI + BSI: [Fourth edition of the Franco-German Common Situational Picture](https://www.ssi.gouv.fr/uploads/2021/11/anssi_bsi_csp_2021.pdf) (Nov. 2021)
 
 ANSSI:
-* [CERT-FR](https://cert.ssi.gouv.fr/)  
+* [CERT-FR](https://cert.ssi.gouv.fr/)
+* [Attaques par rançongiciels, tous concernés - Comment les anticiper et réagir en cas d’incident ?](https://www.ssi.gouv.fr/administration/guide/attaques-par-rancongiciels-tous-concernes-comment-les-anticiper-et-reagir-en-cas-dincident/) [FR] (Aug. 2020)
 * [État de la menace rançongiciels à l’encontre des entreprises et institutions](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-001/) [FR] (Feb. 2021)
+* [Panorama de la menace informatique 2021](https://www.cert.ssi.gouv.fr/uploads/20220309_NP_WHITE_ANSSI_panorama-menace-ANSSI.pdf) [FR] (Mar. 2022)
 
 IBM Security - X-Force: [The definitive guide to ransomware: Readiness, response, and remediation](https://www.ibm.com/downloads/cas/EV6NAQR4) (Nov. 2020)

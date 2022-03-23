@@ -178,8 +178,9 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
-| date | webinar | video | deck |
-| ---- | ------- | ----- | ---- |
+| date | webinar | video | deck | doc |
+| ---- | ------- | ----- | ---- | --- |
+| 2022-03-09 | The Advanced SIEM Information Model (ASIM): Now Built into Microsoft Sentinel | [YouTube](https://youtu.be/Cf4wu_ujhG4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkxs9x6dAP7dv2xB-?e=4ROT3G) | [doc](https://docs.microsoft.com/en-us/azure/sentinel/normalization-parsers-overview#built-in-asim-parsers-and-workspace-deployed-parsers) |
 | 2021-10-06 | Turbocharging ASIM: Making Sure Normalization Helps Performance Rather Than Impacting It | [YouTube](https://youtu.be/-dg_0NBIoak) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjnQITNn35QafW5V2?e=GnCDkA) |
 | 2021-08-11 | Deep Dive into Azure Sentinel Normalizing Parsers and Normalized Content | [YouTube](https://youtu.be/Yv1Ja0Sk6wY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjGtoRPQ2XYe3wQDz?e=R3dWeM) |
 | 2021-07-28 | The Information Model: Understanding Normalization in Azure Sentinel | [YouTube](https://youtu.be/kTaKqQKzt_o) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjDY1cro08Fk3KUj-?e=murYHG) |

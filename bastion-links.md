@@ -14,6 +14,9 @@ Quick link to documentation: https://aka.ms/AzureBastion
 
 ## Feature updates
 
+2022-02-07 [Public preview: Azure Bastion now supports file transfer via the native client](https://azure.microsoft.com/en-us/updates/azure-bastion-file-transfer-native-client/)  
+doc: [Upload or download files using the native client (Preview)](https://docs.microsoft.com/en-us/azure/bastion/vm-upload-download-native)
+
 2021-11-09 [Public preview: Azure Bastion native client support](https://azure.microsoft.com/en-us/updates/public-preview-azure-bastion-native-client-support/)  
 doc: [Connect to a VM using Bastion and the native client on your Windows computer (Preview)](https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows)
 
