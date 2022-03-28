@@ -29,6 +29,8 @@ Quick link to this page: https://aka.ms/threats-links
 
 2022-03-22 [DEV-0537 criminal actor targeting organizations for data exfiltration and destruction](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/)
 
+[Threat Brief: Lapsus$ Group](https://unit42.paloaltonetworks.com/lapsus-group/) (Palo Alto Networks Unit 42)
+
 <a name="ukraine"></a>
 
 ## Ukraine related threats
@@ -97,12 +99,11 @@ Microsoft Ignite:
 * [Ransomware Mitigation Best Practices through Better Backup](https://myignite.microsoft.com/sessions/666bab87-d9b7-4a13-a41b-c056d32d8034?source=sessions)
 * [How to Protect Your Microsoft 365 Data from Ransomware](https://myignite.microsoft.com/sessions/37fa0101-6482-4c15-a1a7-50fe533048f4?source=sessions)
 
-ANSSI + BSI: [Fourth edition of the Franco-German Common Situational Picture](https://www.ssi.gouv.fr/uploads/2021/11/anssi_bsi_csp_2021.pdf) (Nov. 2021)
-
 ANSSI:
 * [CERT-FR](https://cert.ssi.gouv.fr/)
-* [Attaques par rançongiciels, tous concernés - Comment les anticiper et réagir en cas d’incident ?](https://www.ssi.gouv.fr/administration/guide/attaques-par-rancongiciels-tous-concernes-comment-les-anticiper-et-reagir-en-cas-dincident/) [FR] (Aug. 2020)
-* [État de la menace rançongiciels à l’encontre des entreprises et institutions](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-001/) [FR] (Feb. 2021)
 * [Panorama de la menace informatique 2021](https://www.cert.ssi.gouv.fr/uploads/20220309_NP_WHITE_ANSSI_panorama-menace-ANSSI.pdf) [FR] (Mar. 2022)
+* [Fourth edition of the Franco-German Common Situational Picture](https://www.ssi.gouv.fr/uploads/2021/11/anssi_bsi_csp_2021.pdf) (ANSSI + BSI, Nov. 2021)
+* [État de la menace rançongiciels à l’encontre des entreprises et institutions](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-001/) [FR] (Feb. 2021)
+* [Attaques par rançongiciels, tous concernés - Comment les anticiper et réagir en cas d’incident ?](https://www.ssi.gouv.fr/administration/guide/attaques-par-rancongiciels-tous-concernes-comment-les-anticiper-et-reagir-en-cas-dincident/) [FR] (Aug. 2020)
 
 IBM Security - X-Force: [The definitive guide to ransomware: Readiness, response, and remediation](https://www.ibm.com/downloads/cas/EV6NAQR4) (Nov. 2020)

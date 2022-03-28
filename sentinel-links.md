@@ -28,14 +28,15 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)  
+[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
+[Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) | [Billing doc](https://aka.ms/sentinel-billing-docs)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
 [Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/)
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| 2022-03-01 | What's Next in Microsoft Sentinel | [YouTube](https://youtu.be/40A0N8Gfi0w) | | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133) |
+| 2022-03-01 | What's Next in Microsoft Sentinel | [YouTube](https://youtu.be/40A0N8Gfi0w) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkx2Z_xdBPgRVoCb_?e=Ol0gTh) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133) |
 
 <a name="architecture"></a>
 
@@ -180,6 +181,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 | date | webinar | video | deck | doc |
 | ---- | ------- | ----- | ---- | --- |
+| 2022-03-22 | Extend and Manage ASIM: Developing, Testing and Deploying ASIM Parsers | [YouTube](https://youtu.be/NHLdcuJNqKw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkz1OrrmIxapzmBJY?e=XDg4Ny) | |
 | 2022-03-09 | The Advanced SIEM Information Model (ASIM): Now Built into Microsoft Sentinel | [YouTube](https://youtu.be/Cf4wu_ujhG4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkxs9x6dAP7dv2xB-?e=4ROT3G) | [doc](https://docs.microsoft.com/en-us/azure/sentinel/normalization-parsers-overview#built-in-asim-parsers-and-workspace-deployed-parsers) |
 | 2021-10-06 | Turbocharging ASIM: Making Sure Normalization Helps Performance Rather Than Impacting It | [YouTube](https://youtu.be/-dg_0NBIoak) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjnQITNn35QafW5V2?e=GnCDkA) |
 | 2021-08-11 | Deep Dive into Azure Sentinel Normalizing Parsers and Normalized Content | [YouTube](https://youtu.be/Yv1Ja0Sk6wY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjGtoRPQ2XYe3wQDz?e=R3dWeM) |
