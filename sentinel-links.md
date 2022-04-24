@@ -155,7 +155,8 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 modules 7 (KQL) & 8 (Analytics)  
 Rod Trent's [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [Sample queries](https://github.com/rod-trent/SentinelKQL)  
 Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent)  
-[KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)
+[KQL lab Jupyter notebook](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab)  
+[KQL for Microsoft Sentinel + collection of KQL queries](https://github.com/reprise99/Sentinel-Queries)
 
 | date | webinar | video | deck | blog/lab |
 | ---- | ------- | ----- | ---- | -------- |

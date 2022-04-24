@@ -37,6 +37,7 @@ Free training:
 
 [Sample PowerShell interactive demo](https://github.com/pascals-msft/azure-demos/blob/main/demo-lighthouse.ps1)
 
+2022-04-19 [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM) (John Savill - YouTube)  
 2020-12-17 [Manage migration projects at scale with Azure Lighthouse and Azure Migrate](https://techcommunity.microsoft.com/t5/azure-migration-and/manage-migration-projects-at-scale-with-azure-lighthouse-and/ba-p/1999161)  
 2020-10-18 [Azure Lighthouse - Step by step guidance - Onboard customer to Lighthouse using sample template](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-lighthouse-step-by-step-guidance-onboard-customer-to/ba-p/1793055)  
 2020-09-22 [Azure Arc & Lighthouse: Managing IT Infrastructure Anywhere at-scale](https://techcommunity.microsoft.com/t5/azure-arc-blog/azure-arc-amp-lighthouse-managing-it-infrastructure-anywhere-at/ba-p/1638980)
