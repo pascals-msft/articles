@@ -46,7 +46,8 @@ Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?l
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
-| 2022-03-15 | Demystifying Microsoft Defender for Containers | | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkyjJrQqkRd61fmJ7?e=tvasAU) |
+| 2022-04-14 | Protecting Multi-Cloud Environments (AWS & GCP) with Microsoft Defender for Cloud | [YouTube](https://youtu.be/bVsifz3ZyPY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlCZcvRTe0sZebrBO?e=ING5qD) | [blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-posture-management-and-server-protection-for-aws-and/ba-p/3271388) |
+| 2022-03-15 | Demystifying Microsoft Defender for Containers | [YouTube](https://youtu.be/TmoS0tVwpAM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkyjJrQqkRd61fmJ7?e=tvasAU) | |
 | 2022-01-12 | Introducing Microsoft Defender for Containers | [YouTube](https://youtu.be/lCxhu07o28o) | [deck](https://1drv.ms/p/s!AnEPjr8tHcNmkkInoM2w09ZWjcX4?e=hY4sRF) | [blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/introducing-microsoft-defender-for-containers/ba-p/2952317) |
 | 2021-10-27 | Azure Defender for SQL | [YouTube](https://youtu.be/yBbBbO1mvRs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmj3cvpqavyQAajZ1i?e=uAKVFw) |
 | 2021-04-29 | Demystifying Azure Defender Once for All | [YouTube](https://youtu.be/1_49cUnWRjs) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmiAqykRERLojVN6ah?e=CHGHZU) |
