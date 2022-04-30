@@ -35,6 +35,7 @@ Quick link to this page: https://aka.ms/threats-links
 
 ## Ukraine related threats
 
+2022-04-27 [The hybrid war in Ukraine](https://blogs.microsoft.com/on-the-issues/2022/04/27/hybrid-war-ukraine-russia-cyberattacks/) | [Ukraine special report](https://aka.ms/ukrainespecialreport)  
 2022-03-31 [Tensions internationales – Menace cyber](https://www.cert.ssi.gouv.fr/cti/CERTFR-2022-CTI-001/) [FR] (CERT-FR)  
 2022-02-28 [Cyber threat activity in Ukraine: analysis and resources](https://msrc-blog.microsoft.com/2022/02/28/analysis-resources-cyber-threat-activity-ukraine/) (MSRC)  
 2022-02-28 [Digital technology and the war in Ukraine](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/) (Brad Smith)
