@@ -9,7 +9,7 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [General](#arch_general)
   * [Microsoft Sentinel for MSSPs](#mssp)
   * [Long term retention on Azure Data Explorer (ADX)](#adx)
-* [Lab environments](#lab)
+  * [Lab environments](#lab)
 * [Data collection](#collection)
   * [Connectors reference](#connectors_reference)
   * [Azure Monitor Agent (AMA)](#ama)
@@ -22,6 +22,7 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [Bring your own Machine Learning (BYOML)](#byoml)
   * [Fusion ML detections](#fusion)
   * [User and Entity Behavior Analytics (UEBA)](#ueba)
+* [Automation (SOAR)](#automation)
 
 </details>
 
@@ -94,7 +95,7 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 
 <a name="lab"></a>
 
-## Lab environments
+### Lab environments
 
 [SimuLand](https://github.com/Azure/SimuLand)  
 [Microsoft Sentinel To-Go](https://github.com/OTRF/Microsoft-Sentinel2Go)  
@@ -135,6 +136,7 @@ doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/con
 ### SAP continuous threat monitoring
 doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
 
+2022-05-09 [Dynamic SAP Security Audit Log Monitor feature available now!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-news-dynamic-sap-security-audit-log/ba-p/3326842)  
 2022-03-14 [How to use Microsoft Sentinel's SOAR capabilities with SAP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-s-soar-capabilities-with-sap/ba-p/3251485)  
 2022-02-23 [Microsoft Sentinel - SAP User Master Data](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-user-master-data/ba-p/3190034)  
 2021-12-11 [Microsoft Sentinel - SAP continuous threat monitoring workbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-continuous-threat-monitoring-workbooks/ba-p/3015630)  
@@ -214,6 +216,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-05-10 [MSTICPy V2.0.0 Pre-Release 1](https://github.com/microsoft/msticpy/releases/tag/v2.0.0.rc1)  
 2022-02-17 [Visualize User and App Access Connections in Azure using Jupyter Notebooks in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/visualize-user-and-app-access-connections-in-azure-using-jupyter/ba-p/3167987)  
 2022-01-13 [Single Sign On Support for authentication in Microsoft Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/single-sign-on-support-for-authentication-in-microsoft-sentinel/ba-p/3060112)  
 2021-12-14 [Microsoft Sentinel Jupyter Notebooks knowledge check test](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-jupyter-notebooks-knowledge-check-test/ba-p/3030784)  
@@ -262,6 +265,42 @@ Doc: https://aka.ms/SentinelFusion
 
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
 
+2020-09-22 [Stay ahead of threats with new innovations from Azure Sentinel](https://aka.ms/UEBA)  
+2020-11-05 [Guided UEBA Investigation Scenarios to empower your SOC](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-ueba-investigation-scenarios-to-empower-your-soc/ba-p/1857100)
+
+[Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
+
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
 | 2022-01-19 | Present and Future of User Entity Behavioral Analytics in Microsoft Sentinel | [YouTube](https://youtu.be/dLVAkSLKLyQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmklCGjFh58XHq_tNO?e=WO8UNi) |
+| 2020-09-29 | Enabling User and Entity Behavior Analytics (UEBA) \| Hunting for Insider Threats | [YouTube](https://youtu.be/ixBotw9Qidg) [mp4](https://1drv.ms/v/s!AnEPjr8tHcNmjnXtNdtoallJGUyS?e=amUU2P) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhAM189I9gDuyoH7_?e=DQ2Ocy) |
+
+<a name="automation"></a>
+
+## Automation (SOAR)
+
+Doc:
+
+* [Tutorial: Use playbooks with automation rules in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook)
+* [Security Orchestration, Automation, and Response (SOAR) in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/automation)
+* [Automation rules](https://docs.microsoft.com/en-us/azure/sentinel/automate-incident-handling-with-automation-rules)
+* [Playbooks](https://docs.microsoft.com/en-us/azure/sentinel/automate-responses-with-playbooks)
+* [SOAR content catalog](https://docs.microsoft.com/en-us/azure/sentinel/sentinel-soar-content)
+* [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
+
+[Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
+
+2021-04-08 [How to use Azure Sentinel for Incident Response, Orchestration and Automation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397)  
+2021-02-09 [Automatically disable On-prem AD User using a Playbook triggered in Azure](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automatically-disable-on-prem-ad-user-using-a-playbook-triggered/ba-p/2098272)  
+2020-10-19 [Playbooks & Watchlists Part 1: Inform the subscription owner](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/playbooks-amp-watchlists-part-1-inform-the-subscription-owner/ba-p/1768917)
+
+[Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
+
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| 2022-05-10 | Microsoft Sentinel Automation: Tips & Tricks | [YouTube](https://youtu.be/rvUzqZcCP9w) [mp4]() | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlFsrWLFZ3r081rEw?e=A0xkK3) |
+| 2021-10-28 | What’s New in Microsoft Sentinel Automation | [YouTube](https://youtu.be/ai5OHLA7H0E) [mp4](https://aka.ms/AS_Whats_New_in_Automation_28OCT2021_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkAJPHlscQJfr7ggP?e=8X5DPZ) |
+| 2020-09-30 | Unleash your Azure Sentinel automation Jedi tricks and build Logic Apps Playbooks like a Boss | [YouTube](https://youtu.be/G6TIzJK8XBA) [mp4](https://aka.ms/AzS_LA_30SEP20_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhAKStlujGha80s6c?e=n7Zvrw)
+
+
+
