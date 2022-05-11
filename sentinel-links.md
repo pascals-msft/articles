@@ -290,17 +290,18 @@ Doc:
 
 [Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
 
+2022-05-09 [Unleash the Power of Modern SecOps with Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-power-of-modern-secops-with-microsoft-sentinel-soar/ba-p/3302505)  
 2021-04-08 [How to use Azure Sentinel for Incident Response, Orchestration and Automation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397)  
 2021-02-09 [Automatically disable On-prem AD User using a Playbook triggered in Azure](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automatically-disable-on-prem-ad-user-using-a-playbook-triggered/ba-p/2098272)  
 2020-10-19 [Playbooks & Watchlists Part 1: Inform the subscription owner](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/playbooks-amp-watchlists-part-1-inform-the-subscription-owner/ba-p/1768917)
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
-| date | webinar | video | deck | blog |
-| ---- | ------- | ----- | ---- | ---- |
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
 | 2022-05-10 | Microsoft Sentinel Automation: Tips & Tricks | [YouTube](https://youtu.be/rvUzqZcCP9w) [mp4]() | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlFsrWLFZ3r081rEw?e=A0xkK3) |
 | 2021-10-28 | What’s New in Microsoft Sentinel Automation | [YouTube](https://youtu.be/ai5OHLA7H0E) [mp4](https://aka.ms/AS_Whats_New_in_Automation_28OCT2021_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkAJPHlscQJfr7ggP?e=8X5DPZ) |
-| 2020-09-30 | Unleash your Azure Sentinel automation Jedi tricks and build Logic Apps Playbooks like a Boss | [YouTube](https://youtu.be/G6TIzJK8XBA) [mp4](https://aka.ms/AzS_LA_30SEP20_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhAKStlujGha80s6c?e=n7Zvrw)
+| 2020-09-30 | Unleash your Azure Sentinel automation Jedi tricks and build Logic Apps Playbooks like a Boss | [YouTube](https://youtu.be/G6TIzJK8XBA) [mp4](https://aka.ms/AzS_LA_30SEP20_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhAKStlujGha80s6c?e=n7Zvrw) |
 
 
 
