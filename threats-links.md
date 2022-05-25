@@ -73,13 +73,15 @@ Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.
 ## Ransomware
 
 Microsoft Security Best Practices:
- * Human-operated ransomware: https://aka.ms/ransomware
+ * Protect your organization from ransomware: https://aka.ms/ransomware
+ * [Human-operated ransomware](https://docs.microsoft.com/en-us/security/compass/human-operated-ransomware)
  * [Microsoft’s DART ransomware approach and best practices](https://docs.microsoft.com/en-us/security/compass/incident-response-playbook-dart-ransomware-approach)
 
 Azure security fundamentals:
 * [Backup and restore plan to protect against ransomware](https://docs.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware)
 
 Microsoft security blog:
+* 2022-05-09 [Ransomware-as-a-service: Understanding the cybercrime gig economy and how to protect yourself](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/)
 * 2022-04-13 [Dismantling ZLoader: How malicious ads led to disabled security tools and ransomware](https://www.microsoft.com/security/blog/2022/04/13/dismantling-zloader-how-malicious-ads-led-to-disabled-security-tools-and-ransomware/)
 * 2022-02-03 [Cyber Signals: Defending against cyber threats with the latest research, insights, and trends](https://www.microsoft.com/security/blog/2022/02/03/cyber-signals-defending-against-cyber-threats-with-the-latest-research-insights-and-trends/)
 * 2022-01-25 [How CISOs are preparing to tackle 2022](https://www.microsoft.com/security/blog/2022/01/25/how-cisos-are-preparing-to-tackle-2022/)
