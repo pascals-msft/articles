@@ -12,5 +12,6 @@ Reference links
 * [Microsoft Defender for Cloud useful links](mdc-links.md)
 * [Microsoft Sentinel useful links](sentinel-links.md)
 * [Common threats](threats-links.md)
+* [SC-200 certification links](sc200-links.md)
 
 Other references: [jplesage/articles](https://github.com/jplesage/articles)
