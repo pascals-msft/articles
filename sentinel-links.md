@@ -112,9 +112,9 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
-| date | webinar | video | deck |
-| ---- | ------- | ----- | ---- |
-| 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) |
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126) |
 
 <a name="ama"></a>
 
