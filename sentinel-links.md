@@ -30,7 +30,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 
 ## General
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
-[Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) | [Billing doc](https://aka.ms/sentinel-billing-docs)  
+[Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) | [Billing docs](https://aka.ms/sentinel-billing-docs)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
 [Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/)
@@ -97,10 +97,9 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 
 ### Lab environments
 
-[SimuLand](https://github.com/Azure/SimuLand)  
-[Microsoft Sentinel To-Go](https://github.com/OTRF/Microsoft-Sentinel2Go)  
-[Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)  
-2021-11-10 [Learning with the Microsoft Sentinel Training Lab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
+Simuland: [GitHub](https://github.com/Azure/SimuLand) | [blog](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/) | [simulandlabs.com](https://simulandlabs.com/)  
+Microsoft Sentinel To-Go: [GitHub](https://github.com/OTRF/Microsoft-Sentinel2Go)  
+Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
 
 <a name="collection"></a>
 
@@ -110,6 +109,12 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 
 ### Reference
 [Data connectors reference](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
+
+[Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) |
 
 <a name="ama"></a>
 
@@ -216,6 +221,8 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-06-02 [Guided Hunting Notebook: Azure Resource Explorer](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-azure-resource-explorer/ba-p/3294482)  
+2022-05-31 [Export Historical Log Data from Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-historical-log-data-from-microsoft-sentinel/ba-p/3413418)  
 2022-05-10 [MSTICPy V2.0.0 Pre-Release 1](https://github.com/microsoft/msticpy/releases/tag/v2.0.0.rc1)  
 2022-02-17 [Visualize User and App Access Connections in Azure using Jupyter Notebooks in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/visualize-user-and-app-access-connections-in-azure-using-jupyter/ba-p/3167987)  
 2022-01-13 [Single Sign On Support for authentication in Microsoft Sentinel Notebooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/single-sign-on-support-for-authentication-in-microsoft-sentinel/ba-p/3060112)  
@@ -291,6 +298,7 @@ Doc:
 [Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
 
 2022-05-09 [Unleash the Power of Modern SecOps with Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-power-of-modern-secops-with-microsoft-sentinel-soar/ba-p/3302505)  
+2022-05-08 [What's new: Power-up automation with Logic Apps Standard](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-power-up-automation-with-logic-apps-standard/ba-p/3300662)  
 2022-04-29 [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)  
 2021-04-08 [How to use Azure Sentinel for Incident Response, Orchestration and Automation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397)  
 2021-02-09 [Automatically disable On-prem AD User using a Playbook triggered in Azure](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automatically-disable-on-prem-ad-user-using-a-playbook-triggered/ba-p/2098272)  
