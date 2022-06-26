@@ -33,7 +33,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 [Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) | [Billing docs](https://aka.ms/sentinel-billing-docs)  
 [Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
-[Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/)
+[Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [SC-200 Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/) (see also [here](sc200-links.md))
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
