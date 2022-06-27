@@ -5,6 +5,8 @@ Quick link to this page: https://aka.ms/sentinel-links
 <details><summary>Table of contents</summary>
 
 * [General](#general)
+  * [Training](#training)
+  * [Pricing](#pricing)
 * [Architecture](#architecture)
   * [General](#arch_general)
   * [Microsoft Sentinel for MSSPs](#mssp)
@@ -30,14 +32,27 @@ Quick link to this page: https://aka.ms/sentinel-links
 
 ## General
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
-[Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) | [Billing docs](https://aka.ms/sentinel-billing-docs)  
-[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
-[Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
-[Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [SC-200 Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/) (see also [here](sc200-links.md))
+[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
 | 2022-03-01 | What's Next in Microsoft Sentinel | [YouTube](https://youtu.be/40A0N8Gfi0w) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkx2Z_xdBPgRVoCb_?e=Ol0gTh) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133) |
+
+<a name="training"></a>
+
+### Training
+[Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja) +[FAQ](https://aka.ms/asfaq)  
+[Microsoft Sentinel Learning path](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/) | [SC-200 Certification](https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/) (see also [here](sc200-links.md))
+
+<a name="pricing"></a>
+
+### Pricing
+Microsoft Sentinel pricing: [Billing docs](https://aka.ms/sentinel-billing-docs) | [Sentinel Pricing](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/)  
+Log Analytics pricing: [Pricing details](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs) | [Azure Monitor Pricing](https://azure.microsoft.com/en-us/pricing/details/monitor/)  
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2022-06-23 | Leverage new and existing features to optimize cost in Microsoft  Sentinel | [YouTube](https://youtu.be/0cIYB92Qb60) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlUN9R_tit1dEwWjy?e=G3bbkf) |
 
 <a name="architecture"></a>
 
@@ -110,10 +125,14 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 ### Reference
 [Data connectors reference](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 
+### Basic logs, archive, ingestion time transformation...
+
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2022-06-23 | Leverage new and existing features to optimize cost in Microsoft  Sentinel | [YouTube](https://youtu.be/0cIYB92Qb60) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlUN9R_tit1dEwWjy?e=G3bbkf) | |
+| 2022-05-31 | Transforming Data at Ingestion Time in Microsoft Sentinel | [YouTube](https://youtu.be/Jqucy138ets) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlRNGtKO8Sjc9Hlt2?e=wDNbcC) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-support-for-ingestion-time-data/ba-p/3244531) |
 | 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126) |
 
 <a name="ama"></a>
@@ -160,6 +179,7 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 
 ## Kusto query language (KQL)
 [KQL reference guide](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) | [Azure Monitor data reference](https://docs.microsoft.com/en-us/azure/azure-monitor/reference/)   
+Learning path: [SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 modules 7 (KQL) & 8 (Analytics)  
 Rod Trent's [Must Learn KQL - the Blog series](https://aka.ms/MustLearnKQL) | [Sample queries](https://github.com/rod-trent/SentinelKQL)  
 Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m365-0000-rotrent)  

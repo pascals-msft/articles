@@ -1,11 +1,12 @@
 # Articles and reference links
 
-Articles
+## Articles
+
 <!--
 * [Microsoft Sentinel dans un contexte MSSP](sentinel-mssp/sentinel-mssp.md) [FR] *** DRAFT ***
 -->
 
-Reference links
+## Reference links
 
 <!--
 * [Azure Bastion useful links](bastion-links.md)
@@ -25,4 +26,6 @@ Reference links
 | [sentinel-links.md](sentinel-links.md) | Microsoft Sentinel useful links | https://aka.ms/sentinel-links |
 | [threats-links.md](threats-links.md) | Common threats | https://aka.ms/threats-links |
 
-Other references: [jplesage/articles](https://github.com/jplesage/articles) | [myseclinks](https://aka.ms/myseclinks)
+Other references by [Jean-Philippe Lesage](https://www.linkedin.com/in/jplesage/):
+ * [github.com/jplesage/articles](https://github.com/jplesage/articles)
+ * [aka.ms/myseclinks](https://aka.ms/myseclinks) (fr)
