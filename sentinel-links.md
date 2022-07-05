@@ -320,6 +320,8 @@ Doc:
 2022-05-09 [Unleash the Power of Modern SecOps with Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-power-of-modern-secops-with-microsoft-sentinel-soar/ba-p/3302505)  
 2022-05-08 [What's new: Power-up automation with Logic Apps Standard](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-power-up-automation-with-logic-apps-standard/ba-p/3300662)  
 2022-04-29 [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)  
+2021-11-09 [Automate more with 200+ OOTB playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automate-more-with-200-ootb-playbooks/ba-p/2861020)  
+2021-11-09 [Announcing the Public Preview of the Microsoft Sentinel Playbook Templates Tab](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-public-preview-of-the-microsoft-sentinel-playbook/ba-p/2873858)  
 2021-04-08 [How to use Azure Sentinel for Incident Response, Orchestration and Automation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397)  
 2021-02-09 [Automatically disable On-prem AD User using a Playbook triggered in Azure](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automatically-disable-on-prem-ad-user-using-a-playbook-triggered/ba-p/2098272)  
 2020-10-19 [Playbooks & Watchlists Part 1: Inform the subscription owner](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/playbooks-amp-watchlists-part-1-inform-the-subscription-owner/ba-p/1768917)
