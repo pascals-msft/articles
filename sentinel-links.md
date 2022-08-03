@@ -131,6 +131,7 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2022-06-28 | Codeless Connector Platform: Create Your Data Connector in Microsoft Sentinel | [YouTube](https://youtu.be/Fg2iN28Fp0o) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlUy_VajDoYvOvHyT?e=RCgbhx) | |
 | 2022-06-23 | Leverage new and existing features to optimize cost in Microsoft  Sentinel | [YouTube](https://youtu.be/0cIYB92Qb60) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlUN9R_tit1dEwWjy?e=G3bbkf) | |
 | 2022-05-31 | Transforming Data at Ingestion Time in Microsoft Sentinel | [YouTube](https://youtu.be/Jqucy138ets) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlRNGtKO8Sjc9Hlt2?e=wDNbcC) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-support-for-ingestion-time-data/ba-p/3244531) |
 | 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126) |
@@ -284,6 +285,7 @@ Doc: https://aka.ms/SentinelFusion
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2022-07-21 | Microsoft Sentinel Fusion: New Detection Capabilities & Features Explained | [YouTube](https://youtu.be/EZs3soO17ks) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlk4GlleW36zQzbVE?e=EnMGgx) | |
 | 2021-12-01 | Fusion ML Detections for Emerging Threats & Configuration UI | [YouTube](https://youtu.be/bTDp41yMGdk) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkW-CSAjk6o2O27Mx?e=fa0p2q) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detecting-emerging-threats-with-microsoft-sentinel-fusion/ba-p/2923835) |
 | 2021-08-18 | Fusion ML Detections with Scheduled Analytics Rules | [YouTube](https://youtu.be/lmXHAAFBoPw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjQo_9QDdeDd1ufdj?e=HS3DAJ) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-advanced-multistage-attack-detection-scenarios/ba-p/2337497) |
 
