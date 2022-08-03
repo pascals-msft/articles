@@ -157,9 +157,11 @@ doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/con
 
 <a name="sap"></a>
 
-### SAP continuous threat monitoring
-doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
+### Microsoft Sentinel solution for SAP
+doc: [Deploy Threat Monitoring for SAP in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
 
+2022-08-02 GA: Microsoft Sentinel solution for SAP | [blog](https://aka.ms/sentinel4sapga) | [offer](https://azure.microsoft.com/en-us/pricing/offers/microsoft-sentinel-sap-promo/)  
+2022-07-05 [Deploying Microsoft Sentinel Threat Monitoring for SAP agent into an AKS/Kubernetes cluster](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploying-microsoft-sentinel-threat-monitoring-for-sap-agent/ba-p/3528040)  
 2022-05-09 [Dynamic SAP Security Audit Log Monitor feature available now!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-for-sap-news-dynamic-sap-security-audit-log/ba-p/3326842)  
 2022-03-14 [How to use Microsoft Sentinel's SOAR capabilities with SAP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/how-to-use-microsoft-sentinel-s-soar-capabilities-with-sap/ba-p/3251485)  
 2022-02-23 [Microsoft Sentinel - SAP User Master Data](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-sap-user-master-data/ba-p/3190034)  
@@ -172,6 +174,7 @@ doc: [Deploy SAP continuous threat monitoring (preview)](https://docs.microsoft.
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
+| 2022-03-22 | Continuous Threat Monitoring for SAP with Microsoft Sentinel | [YouTube](https://www.youtube.com/watch?v=gkO4z0VGbpg) | |
 | 2021-11-09 | SAP Mini-Series Part 2: Deep Dive - End-to-End Installation of SAP for Microsoft Sentinel | [YouTube](https://youtu.be/n8StWQ_jZbM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVYkhX-N4UsnWmAJ?e=wGKYfP) |
 | 2021-10-18 | SAP Mini-Series Part 1: Introduction to Monitoring SAP with Azure Sentinel for Security Professionals | [YouTube](https://www.youtube.com/watch?v=oG9GTc7g3Bg) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjwkIAN5ljRtag3dh?e=s0iQQg) |
 
@@ -193,6 +196,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 | 2020-07-28 | KQL part 2 of 3: KQL hands-on lab exercises | [YouTube](https://youtu.be/YKD_OFLMpf8) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWSUcV-O-QIVxkAR) | |
 | 2020-06-02 | KQL part 1 of 3: Learn the KQL you need for Azure Sentinel | [YouTube](https://youtu.be/EDCBLULjtCM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhWMvaCIya48sGVTL) | [lab](https://github.com/NorthwaveSecurity/azure_sentinel_learn_kql_lab/blob/master/azure_sentinel_learn_kql_lab.ipynb) |
 
+2022-08-01 [Intro to KQL Workbook - Summer Update](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/intro-to-kql-workbook-summer-update/ba-p/3587232)  
 2022-01-11 [Get Hands-On KQL Practice with this Microsoft Sentinel Workbook](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/get-hands-on-kql-practice-with-this-microsoft-sentinel-workbook/ba-p/3055600)  
 2022-01-04 [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
 
@@ -241,6 +245,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-07-11 [What's New in Notebooks - MSTICPy v2.0.0](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877)  
 2022-06-02 [Guided Hunting Notebook: Azure Resource Explorer](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-azure-resource-explorer/ba-p/3294482)  
 2022-05-31 [Export Historical Log Data from Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-historical-log-data-from-microsoft-sentinel/ba-p/3413418)  
 2022-05-10 [MSTICPy V2.0.0 Pre-Release 1](https://github.com/microsoft/msticpy/releases/tag/v2.0.0.rc1)  
@@ -292,6 +297,7 @@ Doc: https://aka.ms/SentinelFusion
 
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/identify-threats-with-entity-behavior-analytics)
 
+2022-07-27 [Discover the power of UEBA anomalies in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/discover-the-power-of-ueba-anomalies-in-microsoft-sentinel/ba-p/3576185)  
 2020-09-22 [Stay ahead of threats with new innovations from Azure Sentinel](https://aka.ms/UEBA)  
 2020-11-05 [Guided UEBA Investigation Scenarios to empower your SOC](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-ueba-investigation-scenarios-to-empower-your-soc/ba-p/1857100)
 
@@ -317,6 +323,10 @@ Doc:
 
 [Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
 
+2022-07-13 [Microsoft Sentinel Automation Tips & Tricks – Part 3: Send email notification options](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-3-send-email/ba-p/3571716)  
+2022-07-06 [Microsoft Sentinel Automation Tips & Tricks – Part 2: Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-2-playbooks/ba-p/3566369)  
+2022-07-01 [Become a Microsoft Sentinel Automation Ninja!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)  
+2022-06-28 [Microsoft Sentinel Automation Tips & Tricks – Part 1: Automation rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-1-automation/ba-p/3558454)  
 2022-05-09 [Unleash the Power of Modern SecOps with Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/unleash-the-power-of-modern-secops-with-microsoft-sentinel-soar/ba-p/3302505)  
 2022-05-08 [What's new: Power-up automation with Logic Apps Standard](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-power-up-automation-with-logic-apps-standard/ba-p/3300662)  
 2022-04-29 [New watchlist actions available for watchlist automation using Microsoft Sentinel SOAR](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-watchlist-actions-available-for-watchlist-automation-using/ba-p/3297851)  
