@@ -246,6 +246,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-07-18 [Release 1.0 of MSTIC Notebooklets](https://github.com/microsoft/msticnb/releases/tag/v1.0.0) (GitHub)  
 2022-07-11 [What's New in Notebooks - MSTICPy v2.0.0](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877)  
 2022-06-02 [Guided Hunting Notebook: Azure Resource Explorer](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-azure-resource-explorer/ba-p/3294482)  
 2022-05-31 [Export Historical Log Data from Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/export-historical-log-data-from-microsoft-sentinel/ba-p/3413418)  
