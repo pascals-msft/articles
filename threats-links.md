@@ -81,6 +81,7 @@ Azure security fundamentals:
 * [Backup and restore plan to protect against ransomware](https://docs.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware)
 
 Microsoft security blog:
+* 2022-05-25 [Ransomware-as-a-service: The new face of industrialized cybercrime](https://www.microsoft.com/en-us/security/business/security-insider/anatomy-of-an-external-attack-surface/ransomware-as-a-service-the-new-face-of-industrialized-cybercrime/)
 * 2022-05-09 [Ransomware-as-a-service: Understanding the cybercrime gig economy and how to protect yourself](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/)
 * 2022-04-13 [Dismantling ZLoader: How malicious ads led to disabled security tools and ransomware](https://www.microsoft.com/security/blog/2022/04/13/dismantling-zloader-how-malicious-ads-led-to-disabled-security-tools-and-ransomware/)
 * 2022-02-03 [Cyber Signals: Defending against cyber threats with the latest research, insights, and trends](https://www.microsoft.com/security/blog/2022/02/03/cyber-signals-defending-against-cyber-threats-with-the-latest-research-insights-and-trends/)

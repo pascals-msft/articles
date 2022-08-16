@@ -5,7 +5,7 @@ Quick link to this page: https://aka.ms/mdc-links
 <details><summary>Table of contents</summary>
 
 * [General](#general)
-* [Multicloud](#multicloud)
+* [Multicloud solution](#multicloud)
 * [Security posture](#CSPM)
 * [Workload protection](#CWP)
 * [Architecture](#architecture)
@@ -32,7 +32,13 @@ Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [De
 
 <a name="multicloud"></a>
 
-## Multicloud
+## Multicloud solution
+
+Doc: [Defender for Cloud for your multicloud environment](https://docs.microsoft.com/en-us/azure/defender-for-cloud/multicloud)
+
+| date | webinar | video | deck | blog |
+| ---- | ------- | ----- | ---- | ---- |
+| 2022-04-14 | Protecting Multi-Cloud Environments (AWS & GCP) with Microsoft Defender for Cloud | [YouTube](https://youtu.be/bVsifz3ZyPY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlCZcvRTe0sZebrBO?e=ING5qD) | [blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-posture-management-and-server-protection-for-aws-and/ba-p/3271388) |
 
 2022-07-21 [Demystifying Dependencies and Pricing of Microsoft Defender for Cloud Multi-Cloud Capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-dependencies-and-pricing-of-microsoft-defender-for/ba-p/3579250)  
 2022-07-14 [Microsoft Defender for Cloud PoC Series - Multicloud with AWS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-poc-series-multicloud-with-aws/ba-p/3573206)  
@@ -41,7 +47,6 @@ Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [De
 2022-03-09 [Custom assessments and standards in Microsoft Defender for Cloud for GCP workloads (Preview)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3251252)  
 2022-02-23 [Protect your Google Cloud workloads with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360)  
 2022-01-20 [Custom assessments and standards in Microsoft Defender for Cloud for AWS workloads (Preview)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3066575)
-
 
 <a name="CSPM"></a>
 

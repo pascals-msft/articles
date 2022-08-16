@@ -246,6 +246,8 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-08-11 Detecting Low and Slow Password Spray - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/scenario-notebooks/Guided%20Hunting%20-%20Use%20Machine%20Learning%20to%20Detect%20Potential%20Low%20and%20Slow%20Password%20Sprays%20using%20Apache%20Spark%20via%20Azure%20Synapse.ipynb) | [YouTube](https://www.youtube.com/watch?v=OJTSHaY-t54)  
+2022-08-11 Detecting Masqueraded Process Name Anomalies - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/machine-learning-notebooks/MasqueradingProcessNameAnomaly.ipynb) | [YouTube](https://www.youtube.com/watch?v=eFYoyVE-PDQ)  
 2022-07-18 [Release 1.0 of MSTIC Notebooklets](https://github.com/microsoft/msticnb/releases/tag/v1.0.0) (GitHub)  
 2022-07-11 [What's New in Notebooks - MSTICPy v2.0.0](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-in-notebooks-msticpy-v2-0-0/ba-p/3565877)  
 2022-06-02 [Guided Hunting Notebook: Azure Resource Explorer](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/guided-hunting-notebook-azure-resource-explorer/ba-p/3294482)  
