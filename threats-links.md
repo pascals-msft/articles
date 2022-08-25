@@ -81,6 +81,7 @@ Azure security fundamentals:
 * [Backup and restore plan to protect against ransomware](https://docs.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware)
 
 Microsoft security blog:
+[ransomware articles](https://www.microsoft.com/security/blog/ransomware/)
 * 2022-08-22 [Cyber Signals: Defend against the new ransomware landscape](https://www.microsoft.com/security/blog/2022/08/22/cyber-signals-defend-against-the-new-ransomware-landscape/)
 * 2022-07-14 [North Korean threat actor targets small and midsize businesses with H0lyGh0st ransomware](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/)
 * 2022-05-25 [Ransomware-as-a-service: The new face of industrialized cybercrime](https://www.microsoft.com/en-us/security/business/security-insider/anatomy-of-an-external-attack-surface/ransomware-as-a-service-the-new-face-of-industrialized-cybercrime/)
@@ -99,11 +100,20 @@ Microsoft whitepapers:
 * [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/) (Sep. 2021)
 
 Microsoft security products:
-* Microsoft Sentinel: [Import ReversingLab’s Ransomware Feed into Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/import-reversinglab-s-ransomware-feed-into-microsoft-sentinel/ba-p/3423937) (May 2022)
-* Microsoft Defender for Cloud: [New Ransomware Recommendation Dashboard in Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-ransomware-recommendation-dashboard-in-microsoft-defender/ba-p/3270472) (Mar. 2022)
-* Microsoft Defender for Endpoint: [Defending against ransomware with Microsoft Defender for Endpoint and Intel TDT: A Case Study](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-against-ransomware-with-microsoft-defender-for/ba-p/3243941) (Mar. 2022)
-* Microsoft Sentinel: [Fusion detection for ransomware](https://docs.microsoft.com/en-us/azure/sentinel/fusion#fusion-for-ransomware) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373) (Aug. 2021)
-* Microsoft 365 Defender: [Hunt for ransomware](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-find-ransomware)
+* Microsoft Sentinel:
+  * [Import ReversingLab’s Ransomware Feed into Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/import-reversinglab-s-ransomware-feed-into-microsoft-sentinel/ba-p/3423937) (May 2022)
+  * [Fusion detection for ransomware](https://docs.microsoft.com/en-us/azure/sentinel/fusion#fusion-for-ransomware) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-fusion-detection-for-ransomware/ba-p/2621373) (Aug. 2021)
+* Microsoft Defender for Cloud:
+  * [New Ransomware Recommendation Dashboard in Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/new-ransomware-recommendation-dashboard-in-microsoft-defender/ba-p/3270472) (Mar. 2022)
+* Microsoft Defender for Endpoint:
+  * [Defending against ransomware with Microsoft Defender for Endpoint and Intel TDT: A Case Study](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-against-ransomware-with-microsoft-defender-for/ba-p/3243941) (Mar. 2022)
+* Microsoft 365 Defender:
+  * [Hunt for ransomware](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-find-ransomware)
+  * [Detecting human-operated ransomware attacks with Microsoft 365 Defender](https://docs.microsoft.com/en-us/microsoft-365/security/defender/playbook-detecting-ransomware-m365-defender)
+  * [Responding to ransomware attacks](https://docs.microsoft.com/en-us/microsoft-365/security/defender/playbook-responding-ransomware-m365-defender)
+* Microsoft 365:
+  * [Malware and ransomware protection in Microsoft 365](https://docs.microsoft.com/en-us/compliance/assurance/assurance-malware-and-ransomware-protection)
+  * [Deploy ransomware protection for your Microsoft 365 tenant](https://docs.microsoft.com/en-us/microsoft-365/solutions/ransomware-protection-microsoft-365)
 
 Microsoft Ignite:
 * [Business continuity & ransomware protection through backup, disaster recovery solutions for on-premises and cloud.](https://myignite.microsoft.com/sessions/091d407f-0540-48ac-b24c-8c881d1ea634?source=sessions)
