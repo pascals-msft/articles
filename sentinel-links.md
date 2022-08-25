@@ -114,7 +114,8 @@ Doc : [Integrate Azure Data Explorer for long-term log retention](https://docs.m
 
 Simuland: [GitHub](https://github.com/Azure/SimuLand) | [blog](https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/) | [simulandlabs.com](https://simulandlabs.com/)  
 Microsoft Sentinel To-Go: [GitHub](https://github.com/OTRF/Microsoft-Sentinel2Go)  
-Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)
+Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/learning-with-the-microsoft-sentinel-training-lab/ba-p/2953403)  
+2022-08-12 [New ingestion-SampleData-as-a-service solution, for a great Demos and simulation](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/new-ingestion-sampledata-as-a-service-solution-for-a-great-demos/ba-p/3598500)
 
 <a name="collection"></a>
 
@@ -246,6 +247,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-08-17 [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)  
 2022-08-11 Detecting Low and Slow Password Spray - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/scenario-notebooks/Guided%20Hunting%20-%20Use%20Machine%20Learning%20to%20Detect%20Potential%20Low%20and%20Slow%20Password%20Sprays%20using%20Apache%20Spark%20via%20Azure%20Synapse.ipynb) | [YouTube](https://www.youtube.com/watch?v=OJTSHaY-t54)  
 2022-08-11 Detecting Masqueraded Process Name Anomalies - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/machine-learning-notebooks/MasqueradingProcessNameAnomaly.ipynb) | [YouTube](https://www.youtube.com/watch?v=eFYoyVE-PDQ)  
 2022-07-18 [Release 1.0 of MSTIC Notebooklets](https://github.com/microsoft/msticnb/releases/tag/v1.0.0) (GitHub)  
