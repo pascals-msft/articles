@@ -58,7 +58,8 @@ Quick link to this page: https://aka.ms/threats-links
 ## Nobelium (Solorigate) (Solarwinds)
 
 Solorigate / Nobelium Resource Center: https://aka.ms/solorigate or https://aka.ms/nobelium  
-[Decoding NOBELIUM: the Docuseries](https://www.youtube.com/playlist?list=PL3ZTgFEc7Lyt46DSa1sUR9YUK1OuGIeNB)
+[Decoding NOBELIUM: the Docuseries](https://www.youtube.com/playlist?list=PL3ZTgFEc7Lyt46DSa1sUR9YUK1OuGIeNB)  
+2022-08-24 [MagicWeb: NOBELIUM’s post-compromise trick to authenticate as anyone](https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/)
 
 <a name="omi"></a>
 
