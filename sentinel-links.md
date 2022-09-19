@@ -20,7 +20,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 * [Kusto query language (KQL)](#kql)
 * [Advanced SIEM Information Model (ASIM)](#asim)
 * [Notebooks and machine learning](#ml)
-  * [Jupyter Notebooks](#notebooks)
+  * [Notebooks](#notebooks)
   * [Bring your own Machine Learning (BYOML)](#byoml)
   * [Fusion ML detections](#fusion)
   * [User and Entity Behavior Analytics (UEBA)](#ueba)
@@ -31,8 +31,9 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-[Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
-[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)
+[Security community](https://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Private Community](https://aka.ms/PrSecCom)
+
+Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
@@ -228,7 +229,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 <a name="notebooks"></a>
 
-### Jupyter Notebooks
+### Notebooks
 [Doc](https://docs.microsoft.com/en-us/azure/sentinel/notebooks) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks)  
 [Microsoft Sentinel Ninja Training](https://aka.ms/sentinelninja): part 3 module Y  
 [Microsoft Sentinel Notebooks Ninja - The Series!](https://cda.ms/2wn)  
@@ -247,6 +248,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-09-14 [Introduction to Machine Learning Notebooks in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introduction-to-machine-learning-notebooks-in-microsoft-sentinel/ba-p/3626534)  
 2022-08-17 [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)  
 2022-08-11 Detecting Low and Slow Password Spray - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/scenario-notebooks/Guided%20Hunting%20-%20Use%20Machine%20Learning%20to%20Detect%20Potential%20Low%20and%20Slow%20Password%20Sprays%20using%20Apache%20Spark%20via%20Azure%20Synapse.ipynb) | [YouTube](https://www.youtube.com/watch?v=OJTSHaY-t54)  
 2022-08-11 Detecting Masqueraded Process Name Anomalies - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-masqueraded-process-name-anomalies-using-an-ml-notebook/ba-p/3596405) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/machine-learning-notebooks/MasqueradingProcessNameAnomaly.ipynb) | [YouTube](https://www.youtube.com/watch?v=eFYoyVE-PDQ)  
@@ -350,6 +352,3 @@ Doc:
 | 2022-05-10 | Microsoft Sentinel Automation: Tips & Tricks | [YouTube](https://youtu.be/rvUzqZcCP9w) [mp4]() | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlFsrWLFZ3r081rEw?e=A0xkK3) |
 | 2021-10-28 | What’s New in Microsoft Sentinel Automation | [YouTube](https://youtu.be/ai5OHLA7H0E) [mp4](https://aka.ms/AS_Whats_New_in_Automation_28OCT2021_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkAJPHlscQJfr7ggP?e=8X5DPZ) |
 | 2020-09-30 | Unleash your Azure Sentinel automation Jedi tricks and build Logic Apps Playbooks like a Boss | [YouTube](https://youtu.be/G6TIzJK8XBA) [mp4](https://aka.ms/AzS_LA_30SEP20_MP4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmhAKStlujGha80s6c?e=n7Zvrw) |
-
-
-
