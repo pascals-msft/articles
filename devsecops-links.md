@@ -18,10 +18,7 @@ Quick link to this page: https://aka.ms/devsecops-links
 
 ## General
 
-Definitions:
 * https://www.devsecops.org/
-
-Documentation:
 * Azure solution: [DevSecOps](https://azure.microsoft.com/solutions/devsecops/)
 * Azure architecture: [DevSecOps in Azure](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-azure)
 * [Secure development documentation](https://docs.microsoft.com/en-us/azure/security/develop/)
@@ -36,6 +33,27 @@ Documentation:
 
 ## Plan and develop
 
+Threat modeling:
+* [Microsoft Threat Modeling Tool](https://aka.ms/tmtpreview)
+* [OWASP Threat Dragon](https://www.owasp.org/index.php/OWASP_Threat_Dragon)
+* [Threats Manager Studio](https://threatsmanager.com/)
+* [Mitigations - Microsoft Threat Modeling Tool - Azure](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-mitigations)
+* [OWASP Secure Coding Practices-Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content)
+* [OWASP Top 10:2021](https://owasp.org/Top10/)
+* [Modélisation des menaces | Microsoft Learn](https://learn.microsoft.com/fr-fr/training/modules/tm-introduction-to-threat-modeling/1-introduction) [fr]
+* [Contrôles DevSecOps - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/fr-fr/azure/cloud-adoption-framework/secure/devsecops-controls) [fr]
+* [pre-commit](https://pre-commit.com/)
+* [Microsoft Security Development Lifecycle Resources](https://www.microsoft.com/en-us/securityengineering/sdl/resources)
+* [Microsoft Security Development Lifecycle Threat Modelling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
+* [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+* [A Guide to Threat Modelling for Developers (martinfowler.com)](https://martinfowler.com/articles/agile-threat-modelling.html)
+* [evolving-threat-modeling.pdf (wordpress.com)](https://simoneonsecurity.files.wordpress.com/2021/03/evolving-threat-modeling.pdf)
+
+Test automation:
+* [Playwright](https://playwright.dev/)
+* [Testing tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/improve-code-quality)
+* [GitHub: Automating builds and tests](https://docs.github.com/en/actions/automating-builds-and-tests)
+* [VSTest@2 - Visual Studio Test v2 task](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/vstest-v2)
 
 
 <a name="commit"></a>
@@ -59,6 +77,10 @@ Documentation:
 
 ## Go to production and operate
 
-[Secure DevOps Kit for Azure (AzSK)](https://azsk.azurewebsites.net/)
+[Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs/)
 
+Microsoft Defender for DevOps:
 
+* [What's new in Microsoft Defender for Cloud - Oct. 2022 - Defender for DevOps (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes#defender-for-devops-preview)
+* [Microsoft Defender for DevOps Preview](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-devops)
+* [Microsoft Defender for DevOps - documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
