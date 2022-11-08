@@ -73,7 +73,7 @@ Test automation:
 
 ## Build and test
 
-
+[GitHub Actions](https://docs.github.com/en/actions)
 
 <a name="prod"></a>
 
@@ -86,3 +86,5 @@ Microsoft Defender for DevOps:
 * [What's new in Microsoft Defender for Cloud - Oct. 2022 - Defender for DevOps (Preview)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes#defender-for-devops-preview)
 * [Microsoft Defender for DevOps Preview](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-devops)
 * [Microsoft Defender for DevOps - documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
+
+2022-10-19 [Automate Defender for DevOps Recommendation Remediation](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/automate-defender-for-devops-recommendation-remediation/ba-p/3637678)
