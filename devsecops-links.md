@@ -1,7 +1,5 @@
 # DevSecOps links
 
-*** DRAFT ***
-
 Quick link to this page: https://aka.ms/devsecops-links
 
 <details><summary>Table of contents</summary>
@@ -59,6 +57,10 @@ Test automation:
 <a name="commit"></a>
 
 ## Commit the code
+
+[Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/)
+
+[GitHub Codespaces](https://docs.github.com/en/codespaces)
 
 [GitHub Code security](https://docs.github.com/en/code-security)
 
