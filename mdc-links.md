@@ -6,6 +6,7 @@ Quick link to this page: https://aka.ms/mdc-links
 
 * [General](#general)
 * [Multicloud solution](#multicloud)
+* [Defender for DevOps](#devops)
 * [Security posture](#CSPM)
 * [Workload protection](#CWP)
 * [Architecture](#architecture)
@@ -16,13 +17,14 @@ Quick link to this page: https://aka.ms/mdc-links
 
 ## General
 [Doc](https://docs.microsoft.com/en-us/azure/defender-for-cloud/) | [What's new](https://docs.microsoft.com/en-us/azure/defender-for-cloud/release-notes) | [Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bd-p/MicrosoftDefenderCloud) | [GitHub](https://github.com/Azure/Microsoft-Defender-for-Cloud) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)  
-[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)  
+[Security community](http://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Private Community](https://aka.ms/PrSecCom)  
 [Microsoft Defender for Cloud Ninja Training](https://aka.ms/mdfcninja)  
 [Microsoft Defender for Cloud Newsletter](https://aka.ms/MDFCNewsSubscribe)  
 Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [Defender for Cloud in the Field](https://aka.ms/mdfcinthefield)
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
+| 2022-10-25 | What's New in 3 Months | [YouTube](https://youtu.be/yoJS2A0U9q4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmmgX9NmQYfFUObuyf?e=8IkU7H) |
 | 2022-07-19 | What's New in 3 Months | [YouTube](https://youtu.be/XWadW1R4BmY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmljESTscuY1sZWlYz?e=hSfohZ) |
 | 2022-06-16 | The Latest Microsoft Defender for Cloud News from RSA | [YouTube](https://youtu.be/r3w6HVPx3kM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlSv98FS7rXWQwJpX?e=vVILW6) |
 | 2022-04-26 | What's New in 3 Months | [YouTube](https://youtu.be/mr0VpHPG0Nw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlDTt5WDD4_EOb-kX?e=ID3g4w) |
@@ -38,6 +40,7 @@ Doc: [Defender for Cloud for your multicloud environment](https://docs.microsoft
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2022-10-20 | Start Secure and Stay Secure Across Your Multicloud Environments with Microsoft Defender for Cloud | [YouTube](https://youtu.be/yoJS2A0U9q4) | [Deck](https://1drv.ms/b/s!AnEPjr8tHcNmmgX9NmQYfFUObuyf?e=8IkU7H) | |
 | 2022-04-14 | Protecting Multi-Cloud Environments (AWS & GCP) with Microsoft Defender for Cloud | [YouTube](https://youtu.be/bVsifz3ZyPY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlCZcvRTe0sZebrBO?e=ING5qD) | [blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-posture-management-and-server-protection-for-aws-and/ba-p/3271388) |
 
 2022-07-21 [Demystifying Dependencies and Pricing of Microsoft Defender for Cloud Multi-Cloud Capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/demystifying-dependencies-and-pricing-of-microsoft-defender-for/ba-p/3579250)  
@@ -47,6 +50,13 @@ Doc: [Defender for Cloud for your multicloud environment](https://docs.microsoft
 2022-03-09 [Custom assessments and standards in Microsoft Defender for Cloud for GCP workloads (Preview)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3251252)  
 2022-02-23 [Protect your Google Cloud workloads with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360)  
 2022-01-20 [Custom assessments and standards in Microsoft Defender for Cloud for AWS workloads (Preview)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3066575)
+
+<a name="devops"></a>
+
+## Defender for DevOps
+
+Doc: [Overview of Defender for DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
+
 
 <a name="CSPM"></a>
 
