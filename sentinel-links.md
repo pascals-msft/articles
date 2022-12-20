@@ -14,6 +14,8 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [Lab environments](#lab)
 * [Data collection](#collection)
   * [Connectors reference](#connectors_reference)
+  * [Basic logs, archives, ingestion time transformation...](#basic_logs)
+  * [CEF & Syslog](#cef_syslog")
   * [Azure Monitor Agent (AMA)](#ama)
   * [Microsoft 365 Defender integration](#m365d)
   * [SAP continuous threat monitoring](#sap)
@@ -31,7 +33,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-[Security community](https://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Private Community](https://aka.ms/PrSecCom)
+Microsoft Security: [Security community](https://aka.ms/securitycommunity), [webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Private Community](https://aka.ms/PrSecCom)
 
 Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
 
@@ -66,6 +68,8 @@ Log Analytics pricing: [Pricing details](https://docs.microsoft.com/en-us/azure/
 [Design your Microsoft Sentinel workspace architecture](https://docs.microsoft.com/en-us/azure/sentinel/design-your-workspace-architecture)  
 [Azure Sentinel Deployment Guide (with Microsoft partner BlueVoyant)](https://azure.microsoft.com/en-us/resources/azure-sentinel-deployment-guide/)  
 [Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)
+
+2022-12-08 [Architectural Guidance – Azure Monitor private links with Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/architectural-guidance-azure-monitor-private-links-with/ba-p/3692527)
 
 <a name="mssp"></a>
 
@@ -127,7 +131,9 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 ### Reference
 [Data connectors reference](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference)
 
-### Basic logs, archive, ingestion time transformation...
+<a name="basic_logs"></a>
+
+### Basic logs, archives, ingestion time transformation...
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
@@ -138,11 +144,30 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 | 2022-05-31 | Transforming Data at Ingestion Time in Microsoft Sentinel | [YouTube](https://youtu.be/Jqucy138ets) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlRNGtKO8Sjc9Hlt2?e=wDNbcC) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-support-for-ingestion-time-data/ba-p/3244531) |
 | 2022-04-07 | Manage Your Log Lifecycle with New Methods for Ingestion, Archival, Search, and Restoration | [YouTube](https://youtu.be/LgGpSJxUGoc) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlAcKxBXm1EB9DFzw?e=Koyseu) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingest-archive-search-and-restore-data-in-microsoft-sentinel/ba-p/3195126) |
 
+<a name="cef_syslog"></a>
+
+### CEF & Syslog
+
+Doc:
+* [Agent-based integration](https://learn.microsoft.com/en-us/azure/sentinel/connect-data-sources#agent-based-integration-for-data-connectors)
+* [Syslog](https://learn.microsoft.com/en-us/azure/sentinel/connect-syslog)
+* [CEF](https://learn.microsoft.com/en-us/azure/sentinel/connect-common-event-format)
+* [CEF via AMA](https://learn.microsoft.com/en-us/azure/sentinel/connect-cef-ama)
+
+2022-10-25 [Upcoming changes to the CommonSecurityLog table](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/upcoming-changes-to-the-commonsecuritylog-table/ba-p/3643232)
+
+
 <a name="ama"></a>
 
 ### Azure Monitor Agent (AMA)
-[Azure Monitor Agent (AMA)](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview) and [Data Collection Rules (DCR)](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-rule-overview): [blog](https://techcommunity.microsoft.com/t5/azure-monitor-blog/a-powerful-agent-for-azure-monitor-and-a-simpler-world-of-data/ba-p/2443285)  
-doc: [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services?tabs=SA%2CAMA#windows-agent-based-connections)
+[Azure Monitor Agent (AMA)](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview) and [Data Collection Rules (DCR)](https://docs.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-rule-overview): [blog](https://techcommunity.microsoft.com/t5/azure-monitor-blog/a-powerful-agent-for-azure-monitor-and-a-simpler-world-of-data/ba-p/2443285)
+
+Doc:
+* [AMA-based connections](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-windows-microsoft-services?tabs=SA%2CAMA#windows-agent-based-connections)
+* [AMA migration for Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/ama-migrate)
+* [Windows Forwarded Events (Preview)](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference#windows-forwarded-events-preview)
+* [Stream CEF logs with the AMA connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-cef-ama)
+* [Stream and filter data from Windows DNS servers with the AMA connector](https://learn.microsoft.com/en-us/azure/sentinel/connect-dns-ama)
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
@@ -177,6 +202,7 @@ doc: [Deploy Threat Monitoring for SAP in Microsoft Sentinel](https://docs.micro
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
+| 2022-09-08 | Microsoft Sentinel Threat Protection Solution for SAP | [YouTube](https://youtu.be/qH_G1D_6LBQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmmDu0eEp4Mo8TXhdJ?e=u71r6s) |
 | 2022-03-22 | Continuous Threat Monitoring for SAP with Microsoft Sentinel | [YouTube](https://www.youtube.com/watch?v=gkO4z0VGbpg) | |
 | 2021-11-09 | SAP Mini-Series Part 2: Deep Dive - End-to-End Installation of SAP for Microsoft Sentinel | [YouTube](https://youtu.be/n8StWQ_jZbM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkVYkhX-N4UsnWmAJ?e=wGKYfP) |
 | 2021-10-18 | SAP Mini-Series Part 1: Introduction to Monitoring SAP with Azure Sentinel for Security Professionals | [YouTube](https://www.youtube.com/watch?v=oG9GTc7g3Bg) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjwkIAN5ljRtag3dh?e=s0iQQg) |
@@ -239,6 +265,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2022-08-25 | MSTICPy 2.0: What’s New in Microsoft’s Jupyter and Python Security Toolset | [YouTube](https://youtu.be/zsS_ZOHzT00) | | |
 | 2022-02-03 | Become a Jupyter Notebooks Ninja – MSTICPy Intermediate to Build Your Own Notebooks | [YouTube](https://youtu.be/Rpj-FS_0Wqg) | | |
 | 2021-12-16 | Become a Jupyter Notebooks Ninja – MSTICPy Fundamentals to Build Your Own Notebooks | [YouTube](https://youtu.be/S0knTOnA2Rk) | | |
 | 2021-10-11 | Become a Notebooks Ninja – Getting Started with Jupyter Notebooks in Azure Sentinel | [YouTube](https://youtu.be/JLOhfoovASE) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmjmnUOdOAguEDWvz5?e=gYHOkU) | |
@@ -248,6 +275,7 @@ Marcus Bakker's [KQL cheat sheet](https://github.com/marcusbakker/KQL?WT.mc_id=m
 
 MSTICPy: [doc](https://msticpy.readthedocs.io/) | [GitHub](https://github.com/microsoft/msticpy) | [Medium](https://msticpy.medium.com/)
 
+2022-12-14 [MSTICPy Hack Month - January 2023](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/msticpy-hack-month-january-2023/ba-p/3697450)  
 2022-09-14 [Introduction to Machine Learning Notebooks in Microsoft Sentinel](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introduction-to-machine-learning-notebooks-in-microsoft-sentinel/ba-p/3626534)  
 2022-08-17 [Hunting for Teams Phishing with Microsoft Sentinel, Defender, Microsoft Graph and MSTICPy](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-teams-phishing-with-microsoft-sentinel-defender/ba-p/3601746)  
 2022-08-11 Detecting Low and Slow Password Spray - [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/hunting-for-low-and-slow-password-sprays-using-machine-learning/ba-p/3592052) | [GitHub](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/master/scenario-notebooks/Guided%20Hunting%20-%20Use%20Machine%20Learning%20to%20Detect%20Potential%20Low%20and%20Slow%20Password%20Sprays%20using%20Apache%20Spark%20via%20Azure%20Synapse.ipynb) | [YouTube](https://www.youtube.com/watch?v=OJTSHaY-t54)  
@@ -330,8 +358,12 @@ Doc:
 * [SOAR content catalog](https://docs.microsoft.com/en-us/azure/sentinel/sentinel-soar-content)
 * [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
 
-[Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
+[Sample Playbooks on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)  
+[Microsoft Sentinel Triage AssistanT (STAT)](https://github.com/briandelmsft/SentinelAutomationModules)
 
+2022-12-13 [What's New: More NEW Microsoft Sentinel SOAR solutions](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-more-new-microsoft-sentinel-soar-solutions/ba-p/3696467)  
+2022-12-12 [What’s new: Run playbooks on entities on-demand](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-run-playbooks-on-entities-on-demand/ba-p/3694937)  
+2022-11-17 [What’s new: Monitor the health of your automation rules and playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-monitor-the-health-of-your-automation-rules-and/ba-p/3678696)  
 2022-07-13 [Microsoft Sentinel Automation Tips & Tricks – Part 3: Send email notification options](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-3-send-email/ba-p/3571716)  
 2022-07-06 [Microsoft Sentinel Automation Tips & Tricks – Part 2: Playbooks](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-automation-tips-amp-tricks-part-2-playbooks/ba-p/3566369)  
 2022-07-01 [Become a Microsoft Sentinel Automation Ninja!](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)  

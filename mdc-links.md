@@ -116,11 +116,13 @@ Videos: [A la source d'Azure Security Center](https://www.youtube.com/playlist?l
 
 <a name="architecture"></a>
 
-## Architecture
+## Architecture & labs
+
 [Microsoft Defender for Cloud PoC Series](https://aka.ms/ascpoc)  
 [Hybrid Security Monitoring using Microsoft Defender for Cloud and Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/architecture/hybrid/hybrid-security-monitoring)  
 [Microsoft Defender for Cloud Labs](https://aka.ms/asclabs)  
-[Microsoft Defender for Cloud Enterprise Onboarding Guide](http://aka.ms/ASCOnboarding)
+[Microsoft Defender for Cloud Enterprise Onboarding Guide](http://aka.ms/ASCOnboarding)  
+[Azure Red Team Attack and Detect Workshop](https://github.com/mandiant/Azure_Workshop) (Mandiant)
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
