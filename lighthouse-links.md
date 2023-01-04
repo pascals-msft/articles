@@ -16,28 +16,30 @@ Quick link to this page: https://aka.ms/lighthouse-links
 ## General
 
 [Product](https://azure.microsoft.com/en-us/services/azure-lighthouse/) |
-[Doc](https://docs.microsoft.com/en-us/azure/lighthouse/) |
+[Doc](https://learn.microsoft.com/en-us/azure/lighthouse/) |
 [Community](https://techcommunity.microsoft.com/t5/azure-lighthouse/bd-p/AzureLighthouse) |
 [GitHub](https://github.com/Azure/Azure-Lighthouse-samples)
 
 2021-01-25 [4 reasons customers are asking service partners for Azure Lighthouse](https://azure.microsoft.com/en-us/blog/4-reasons-customers-are-asking-service-partners-for-azure-lighthouse/)
 
 Free training:
-* [Use Azure Lighthouse with your managed service business](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/) (with online lab)
-* [Use Azure Lighthouse to govern, monitor, and secure customer resources](https://docs.microsoft.com/en-us/learn/modules/govern-monitor-secure-resources-azure-lighthouse/)
+* [Use Azure Lighthouse with your managed service business](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-lighthouse/) (with online lab)
+* [Use Azure Lighthouse to govern, monitor, and secure customer resources](https://learn.microsoft.com/en-us/training/modules/govern-monitor-secure-resources-azure-lighthouse/)
 
 <a name="howto"></a>
 
 ## How-to
 
-[Customer onboarding reference documentation](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer)
+[Customer onboarding reference documentation](https://learn.microsoft.com/en-us/azure/lighthouse/how-to/onboard-customer)
 
 [GitHub: _Deploy to Azure_ buttons](https://github.com/Azure/Azure-Lighthouse-samples) |
 [Index of the samples](https://docs.microsoft.com/en-us/azure/lighthouse/samples/)
 
 [Sample PowerShell interactive demo](https://github.com/pascals-msft/azure-demos/blob/main/demo-lighthouse.ps1)
 
+2022-11-28 [Azure Lighthouse PIM Enabled Delegations](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/azure-lighthouse-pim-enabled-delegations/ba-p/3682255) (GA)  
 2022-04-19 [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM) (John Savill - YouTube)  
+2021-07-08 [Privileged Identity Management with Azure Lighthouse enables Zero Trust](https://azure.microsoft.com/en-us/blog/privileged-identity-management-with-azure-lighthouse-enables-zero-trust/) (preview)  
 2020-12-17 [Manage migration projects at scale with Azure Lighthouse and Azure Migrate](https://techcommunity.microsoft.com/t5/azure-migration-and/manage-migration-projects-at-scale-with-azure-lighthouse-and/ba-p/1999161)  
 2020-10-18 [Azure Lighthouse - Step by step guidance - Onboard customer to Lighthouse using sample template](https://techcommunity.microsoft.com/t5/azure-paas-blog/azure-lighthouse-step-by-step-guidance-onboard-customer-to/ba-p/1793055)  
 2020-09-22 [Azure Arc & Lighthouse: Managing IT Infrastructure Anywhere at-scale](https://techcommunity.microsoft.com/t5/azure-arc-blog/azure-arc-amp-lighthouse-managing-it-infrastructure-anywhere-at/ba-p/1638980)
