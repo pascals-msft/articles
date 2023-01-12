@@ -12,6 +12,7 @@ Products:
 * Microsoft Sentinel
 
 Trainings:
+* [Course SC-200T00: Microsoft Security Operations Analyst](https://learn.microsoft.com/en-us/training/courses/sc-200t00) (free modules)
 * [Microsoft Security Virtual Training Day: Defend Against Threats and Secure Cloud](https://mvtd.events.microsoft.com/?securityevent=Microsoft%20Security%20Virtual%20Training%20Day:%20Defend%20Against%20Threats%20and%20Secure%20Cloud%20Environments)
 * [Pluralsight SC-200 training](https://www.pluralsight.com/paths/microsoft-security-operations-analyst-sc-200)
 * [YouTube: David Branscome SC-200 video](https://www.youtube.com/watch?v=EJ4Fm_omTNI) | [deck](https://aka.ms/SC-200Deck)
@@ -24,6 +25,7 @@ Trainings:
   * [SC-200: Connect logs to Microsoft Sentinel](https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/)
   * [SC-200: Create detections and perform investigations using Microsoft Sentinel](https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/)
   * [SC-200: Perform threat hunting in Microsoft Sentinel](https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/)
+
 
 Books:
  * [Exam Ref SC-200 Microsoft Security Operations Analyst](https://www.microsoftpressstore.com/title/9780137568352)
