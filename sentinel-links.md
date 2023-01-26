@@ -39,6 +39,7 @@ Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [W
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
+| 2023-01-25 | What's New in the Last 6 Months | [YouTube](https://youtu.be/bNNgniXNtW4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmnFPhPxvayifXCuqT?e=WJp02e) | |
 | 2022-03-01 | What's Next in Microsoft Sentinel | [YouTube](https://youtu.be/40A0N8Gfi0w) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkx2Z_xdBPgRVoCb_?e=Ol0gTh) | [blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-next-in-microsoft-sentinel/ba-p/3179133) |
 
 <a name="training"></a>
