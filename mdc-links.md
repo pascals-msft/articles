@@ -24,8 +24,9 @@ Videos: [Azure Security Center in the Field](https://aka.ms/ascinthefield) | [De
 
 | date | webinar | video | deck |
 | ---- | ------- | ----- | ---- |
-| 2022-10-25 | What's New in 3 Months | [YouTube](https://youtu.be/yoJS2A0U9q4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmmgX9NmQYfFUObuyf?e=8IkU7H) |
-| 2022-07-19 | What's New in 3 Months | [YouTube](https://youtu.be/XWadW1R4BmY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmljESTscuY1sZWlYz?e=hSfohZ) |
+| 2023-01-31 | What's New in the Last 3 Months | [YouTube](https://youtu.be/FRMI3hJuCAA) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmnGrKI8HWvR9KpPmL?e=334TYE) |
+| 2022-10-25 | What’s New in the Last 3 Months | [YouTube](https://youtu.be/yoJS2A0U9q4) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmmgX9NmQYfFUObuyf?e=8IkU7H) |
+| 2022-07-19 | What’s New in the Last 3 Months | [YouTube](https://youtu.be/XWadW1R4BmY) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmljESTscuY1sZWlYz?e=hSfohZ) |
 | 2022-06-16 | The Latest Microsoft Defender for Cloud News from RSA | [YouTube](https://youtu.be/r3w6HVPx3kM) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlSv98FS7rXWQwJpX?e=vVILW6) |
 | 2022-04-26 | What's New in 3 Months | [YouTube](https://youtu.be/mr0VpHPG0Nw) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmlDTt5WDD4_EOb-kX?e=ID3g4w) |
 | 2022-01-20 | What's New in 3 Months | [YouTube](https://youtu.be/Hdlgajm6TrQ) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmkl07JpGza_SV8O5f?e=7LDLvP) |
@@ -56,6 +57,10 @@ Doc: [Defender for Cloud for your multicloud environment](https://docs.microsoft
 ## Defender for DevOps
 
 Doc: [Overview of Defender for DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
+
+| date | webinar | video | deck |
+| ---- | ------- | ----- | ---- |
+| 2023-01-25 | Code to Cloud Security using Microsoft Defender for DevOps | [YouTube](https://youtu.be/3isb6P4fu1g) | [deck](https://1drv.ms/b/s!AnEPjr8tHcNmnEmhYY3d7LAi4fxq?e=lhwit6) |
 
 
 <a name="CSPM"></a>
