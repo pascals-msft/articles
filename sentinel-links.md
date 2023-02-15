@@ -18,7 +18,7 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [CEF & Syslog](#cef_syslog")
   * [Azure Monitor Agent (AMA)](#ama)
   * [Microsoft 365 Defender integration](#m365d)
-  * [SAP continuous threat monitoring](#sap)
+  * [Microsoft Sentinel solution for SAP® applications](#sap)
 * [Kusto query language (KQL)](#kql)
 * [Advanced SIEM Information Model (ASIM)](#asim)
 * [Notebooks and machine learning](#ml)
@@ -186,8 +186,9 @@ Doc:
 
 <a name="sap"></a>
 
-### Microsoft Sentinel solution for SAP
-doc: [Deploy Threat Monitoring for SAP in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/sap-deploy-solution)
+### Microsoft Sentinel solution for SAP® applications
+[offer & billing](https://azure.microsoft.com/en-us/pricing/offers/microsoft-sentinel-sap-promo/) | 
+[doc](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-overview)
 
 2023-01-16 [Microsoft Sentinel Solution for SAP® Applications - New data exfiltration detection rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-solution-for-sap-applications-new-data/ba-p/3716881)  
 2022-08-02 GA: Microsoft Sentinel solution for SAP | [blog](https://aka.ms/sentinel4sapga) | [offer](https://azure.microsoft.com/en-us/pricing/offers/microsoft-sentinel-sap-promo/)  
