@@ -33,7 +33,7 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-Microsoft Security: [Security community](https://aka.ms/securitycommunity) | [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Private Community](https://aka.ms/PrSecCom)
+Microsoft Security: [Security community](https://aka.ms/securitycommunity) | [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Customer Connection Program (CCP)](https://aka.ms/JoinCCP)
 
 Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
 
