@@ -14,7 +14,7 @@ Quick link to this page: https://aka.ms/sentinel-links
   * [Lab environments](#lab)
 * [Data collection](#collection)
   * [Connectors reference](#connectors_reference)
-  * [Basic logs, archives, ingestion time transformation...](#basic_logs)
+  * [Basic logs, archives, ingestion time transformation](#basic_logs)
   * [CEF & Syslog](#cef_syslog")
   * [Azure Monitor Agent (AMA)](#ama)
   * [Microsoft 365 Defender integration](#m365d)
@@ -33,9 +33,17 @@ Quick link to this page: https://aka.ms/sentinel-links
 <a name="general"></a>
 
 ## General
-Microsoft Security: [Security community](https://aka.ms/securitycommunity) | [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990) | [Cloud Security Customer Connection Program (CCP)](https://aka.ms/JoinCCP)
+Microsoft Security Community: [Security community](https://aka.ms/securitycommunity) | [YouTube channel](https://www.youtube.com/c/microsoftsecuritycommunity) | [Past recordings and decks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990)
 
-Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) +[wiki](https://aka.ms/threathunters)  
+Private previews: [Cloud Security Customer Connection Program (CCP)](https://aka.ms/JoinCCP)
+
+Microsoft Sentinel: [Doc](https://docs.microsoft.com/en-us/azure/sentinel/) | [What’s new](https://aka.ms/asnew) | [Blog](https://aka.ms/microsoftsentinelblog) | [Discussion](https://techcommunity.microsoft.com/t5/microsoft-sentinel/bd-p/MicrosoftSentinel) | [GitHub](https://github.com/Azure/Azure-Sentinel) + [wiki](https://aka.ms/threathunters)  
+
+2023-03-28 [What's new with Microsoft Sentinel at Secure](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-with-microsoft-sentinel-at-secure/ba-p/3780900)
+- Expanded SAP app coverage and SAP certification defenders scale their security operations, stay ahead of evolving threats, and secure more of their digital assets
+- New Incident Management, Investigation and Response Features
+- Connections to Microsoft Defender Threat Intelligence
+- Increased Multi-cloud protection
 
 | date | webinar | video | deck | blog |
 | ---- | ------- | ----- | ---- | ---- |
@@ -134,7 +142,7 @@ Microsoft Sentinel Training Lab: [GitHub](https://github.com/Azure/Azure-Sentine
 
 <a name="basic_logs"></a>
 
-### Basic logs, archives, ingestion time transformation...
+### Basic logs, archives, ingestion time transformation
 
 [Webinars](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/recordings-security-community-webinars/ba-p/2865990):
 
@@ -187,9 +195,12 @@ Doc:
 <a name="sap"></a>
 
 ### Microsoft Sentinel solution for SAP® applications
+
 [offer & billing](https://azure.microsoft.com/en-us/pricing/offers/microsoft-sentinel-sap-promo/) | 
 [doc](https://learn.microsoft.com/en-us/azure/sentinel/sap/deployment-overview)
 
+2023-03-28 [What’s new: Sentinel Solution for SAP BTP](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-sentinel-solution-for-sap-btp/ba-p/3780794)  
+2023-02-03 [Detect capture-replay vulnerabilities & exploits with the Sentinel solution for SAP® applications](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-capture-replay-vulnerabilities-amp-exploits-with-the/ba-p/3727644)  
 2023-01-16 [Microsoft Sentinel Solution for SAP® Applications - New data exfiltration detection rules](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/microsoft-sentinel-solution-for-sap-applications-new-data/ba-p/3716881)  
 2022-08-02 GA: Microsoft Sentinel solution for SAP | [blog](https://aka.ms/sentinel4sapga) | [offer](https://azure.microsoft.com/en-us/pricing/offers/microsoft-sentinel-sap-promo/)  
 2022-07-05 [Deploying Microsoft Sentinel Threat Monitoring for SAP agent into an AKS/Kubernetes cluster](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/deploying-microsoft-sentinel-threat-monitoring-for-sap-agent/ba-p/3528040)  
